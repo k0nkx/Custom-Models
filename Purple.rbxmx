@@ -1,0 +1,5067 @@
+-- origin_x:23
+-- origin_y:-0.5
+-- origin_z:11
+-- display_size:7.7
+<roblox xmlns:xmime="http://www.w3.org/2005/05/xmlmime" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.roblox.com/roblox.xsd" version="4">
+<Meta name="ExplicitAutoJoints">true</Meta>
+<External>null</External>
+<External>nil</External>
+<Item class="Model" referent="RBX1">
+<Properties>
+<string name="Name">purple</string>
+<Ref name="PrimaryPart">RBX2</Ref>
+</Properties>
+<Item class="Folder" referent="RBX3">
+<Properties>
+<string name="Name">InitialPoses</string>
+</Properties>
+<Item class="CFrameValue" referent="RBX4">
+<Properties>
+<string name="Name">Sketchfab_model_Composited</string>
+<CoordinateFrame name="Value">
+<X>0.000000000000</X>
+<Y>0.000000000000</Y>
+<Z>0.000000000000</Z>
+<R00>1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>0.000000000000</R11>
+<R12>-1.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>1.000000000000</R21>
+<R22>0.000000000000</R22>
+</CoordinateFrame>
+</Properties>
+</Item>
+<Item class="CFrameValue" referent="RBX5">
+<Properties>
+<string name="Name">Sketchfab_model_Original</string>
+<CoordinateFrame name="Value">
+<X>0.000000000000</X>
+<Y>0.000000000000</Y>
+<Z>0.000000000000</Z>
+<R00>1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>0.000000000000</R11>
+<R12>-1.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>1.000000000000</R21>
+<R22>0.000000000000</R22>
+</CoordinateFrame>
+</Properties>
+</Item>
+<Item class="CFrameValue" referent="RBX6">
+<Properties>
+<string name="Name">Sketchfab_model_Initial</string>
+<CoordinateFrame name="Value">
+<X>0.000000000000</X>
+<Y>0.000000000000</Y>
+<Z>0.000000000000</Z>
+<R00>1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>0.000000000000</R11>
+<R12>-1.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>1.000000000000</R21>
+<R22>0.000000000000</R22>
+</CoordinateFrame>
+</Properties>
+</Item>
+<Item class="CFrameValue" referent="RBX7">
+<Properties>
+<string name="Name">z005 with animations.fbx_Composited</string>
+</Properties>
+</Item>
+<Item class="CFrameValue" referent="RBX8">
+<Properties>
+<string name="Name">z005 with animations.fbx_Original</string>
+<CoordinateFrame name="Value">
+<X>0.000000000000</X>
+<Y>0.000000000000</Y>
+<Z>0.000000000000</Z>
+<R00>1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>-0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>0.000000000000</R11>
+<R12>1.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>-1.000000000000</R21>
+<R22>0.000000000000</R22>
+</CoordinateFrame>
+</Properties>
+</Item>
+<Item class="CFrameValue" referent="RBX9">
+<Properties>
+<string name="Name">z005 with animations.fbx_Initial</string>
+<CoordinateFrame name="Value">
+<X>0.000000000000</X>
+<Y>0.000000000000</Y>
+<Z>0.000000000000</Z>
+<R00>1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>-0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>0.000000000000</R11>
+<R12>1.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>-1.000000000000</R21>
+<R22>0.000000000000</R22>
+</CoordinateFrame>
+</Properties>
+</Item>
+<Item class="CFrameValue" referent="RBX10">
+<Properties>
+<string name="Name">Object_2_Composited</string>
+</Properties>
+</Item>
+<Item class="CFrameValue" referent="RBX11">
+<Properties>
+<string name="Name">Object_2_Original</string>
+</Properties>
+</Item>
+<Item class="CFrameValue" referent="RBX12">
+<Properties>
+<string name="Name">Object_2_Initial</string>
+</Properties>
+</Item>
+<Item class="CFrameValue" referent="RBX13">
+<Properties>
+<string name="Name">RootNode_Composited</string>
+</Properties>
+</Item>
+<Item class="CFrameValue" referent="RBX14">
+<Properties>
+<string name="Name">RootNode_Original</string>
+</Properties>
+</Item>
+<Item class="CFrameValue" referent="RBX15">
+<Properties>
+<string name="Name">RootNode_Initial</string>
+</Properties>
+</Item>
+<Item class="CFrameValue" referent="RBX16">
+<Properties>
+<string name="Name">Object_4_Composited</string>
+</Properties>
+</Item>
+<Item class="CFrameValue" referent="RBX17">
+<Properties>
+<string name="Name">Object_4_Original</string>
+</Properties>
+</Item>
+<Item class="CFrameValue" referent="RBX18">
+<Properties>
+<string name="Name">Object_4_Initial</string>
+</Properties>
+</Item>
+<Item class="CFrameValue" referent="RBX19">
+<Properties>
+<string name="Name">_rootJoint_Composited</string>
+</Properties>
+</Item>
+<Item class="CFrameValue" referent="RBX20">
+<Properties>
+<string name="Name">_rootJoint_Original</string>
+</Properties>
+</Item>
+<Item class="CFrameValue" referent="RBX21">
+<Properties>
+<string name="Name">_rootJoint_Initial</string>
+</Properties>
+</Item>
+<Item class="CFrameValue" referent="RBX22">
+<Properties>
+<string name="Name">z005_00_Composited</string>
+<CoordinateFrame name="Value">
+<X>0.000000000000</X>
+<Y>0.000000000000</Y>
+<Z>0.000000000000</Z>
+<R00>-1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>1.000000000000</R11>
+<R12>0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>-1.000000000000</R22>
+</CoordinateFrame>
+</Properties>
+</Item>
+<Item class="CFrameValue" referent="RBX23">
+<Properties>
+<string name="Name">z005_00_Original</string>
+</Properties>
+</Item>
+<Item class="CFrameValue" referent="RBX24">
+<Properties>
+<string name="Name">z005_00_Initial</string>
+</Properties>
+</Item>
+<Item class="CFrameValue" referent="RBX25">
+<Properties>
+<string name="Name">GRP_joint_01_Composited</string>
+<CoordinateFrame name="Value">
+<X>0.000000000000</X>
+<Y>0.000000000000</Y>
+<Z>0.000000000000</Z>
+<R00>-1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>1.000000000000</R11>
+<R12>0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>-1.000000000000</R22>
+</CoordinateFrame>
+</Properties>
+</Item>
+<Item class="CFrameValue" referent="RBX26">
+<Properties>
+<string name="Name">GRP_joint_01_Original</string>
+</Properties>
+</Item>
+<Item class="CFrameValue" referent="RBX27">
+<Properties>
+<string name="Name">GRP_joint_01_Initial</string>
+</Properties>
+</Item>
+<Item class="CFrameValue" referent="RBX28">
+<Properties>
+<string name="Name">J_root_02_Composited</string>
+<CoordinateFrame name="Value">
+<X>0.000000000000</X>
+<Y>0.000000000000</Y>
+<Z>0.000000000000</Z>
+<R00>-1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>1.000000000000</R11>
+<R12>0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>-1.000000000000</R22>
+</CoordinateFrame>
+</Properties>
+</Item>
+<Item class="CFrameValue" referent="RBX29">
+<Properties>
+<string name="Name">J_root_02_Original</string>
+</Properties>
+</Item>
+<Item class="CFrameValue" referent="RBX30">
+<Properties>
+<string name="Name">J_root_02_Initial</string>
+</Properties>
+</Item>
+<Item class="CFrameValue" referent="RBX31">
+<Properties>
+<string name="Name">J_subroot_03_Composited</string>
+<CoordinateFrame name="Value">
+<X>0.000000000000</X>
+<Y>0.000000000000</Y>
+<Z>0.000000000000</Z>
+<R00>-1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>1.000000000000</R11>
+<R12>0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>-1.000000000000</R22>
+</CoordinateFrame>
+</Properties>
+</Item>
+<Item class="CFrameValue" referent="RBX32">
+<Properties>
+<string name="Name">J_subroot_03_Original</string>
+</Properties>
+</Item>
+<Item class="CFrameValue" referent="RBX33">
+<Properties>
+<string name="Name">J_subroot_03_Initial</string>
+</Properties>
+</Item>
+<Item class="CFrameValue" referent="RBX34">
+<Properties>
+<string name="Name">J_center_04_Composited</string>
+<CoordinateFrame name="Value">
+<X>-0.000000004057</X>
+<Y>2.333999156952</Y>
+<Z>-0.046406723559</Z>
+<R00>-1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>1.000000000000</R11>
+<R12>0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>-1.000000000000</R22>
+</CoordinateFrame>
+</Properties>
+</Item>
+<Item class="CFrameValue" referent="RBX35">
+<Properties>
+<string name="Name">J_center_04_Original</string>
+<CoordinateFrame name="Value">
+<X>0.000000000000</X>
+<Y>2.333999156952</Y>
+<Z>0.046406723559</Z>
+<R00>1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>1.000000000000</R11>
+<R12>0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>1.000000000000</R22>
+</CoordinateFrame>
+</Properties>
+</Item>
+<Item class="CFrameValue" referent="RBX36">
+<Properties>
+<string name="Name">J_center_04_Initial</string>
+<CoordinateFrame name="Value">
+<X>0.000000000000</X>
+<Y>2.333999156952</Y>
+<Z>0.046406723559</Z>
+<R00>1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>1.000000000000</R11>
+<R12>0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>1.000000000000</R22>
+</CoordinateFrame>
+</Properties>
+</Item>
+<Item class="CFrameValue" referent="RBX37">
+<Properties>
+<string name="Name">J_spine01_05_Composited</string>
+<CoordinateFrame name="Value">
+<X>0.000000000000</X>
+<Y>0.000000000000</Y>
+<Z>0.000000000000</Z>
+<R00>-1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>1.000000000000</R11>
+<R12>0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>-1.000000000000</R22>
+</CoordinateFrame>
+</Properties>
+</Item>
+<Item class="CFrameValue" referent="RBX38">
+<Properties>
+<string name="Name">J_spine01_05_Original</string>
+<CoordinateFrame name="Value">
+<X>-0.000000000000</X>
+<Y>-2.333999156952</Y>
+<Z>-0.046406723559</Z>
+<R00>1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>1.000000000000</R11>
+<R12>0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>1.000000000000</R22>
+</CoordinateFrame>
+</Properties>
+</Item>
+<Item class="CFrameValue" referent="RBX39">
+<Properties>
+<string name="Name">J_spine01_05_Initial</string>
+<CoordinateFrame name="Value">
+<X>-0.000000000000</X>
+<Y>-2.333999156952</Y>
+<Z>-0.046406723559</Z>
+<R00>1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>1.000000000000</R11>
+<R12>0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>1.000000000000</R22>
+</CoordinateFrame>
+</Properties>
+</Item>
+<Item class="CFrameValue" referent="RBX40">
+<Properties>
+<string name="Name">J_spine02_06_Composited</string>
+<CoordinateFrame name="Value">
+<X>-0.000000001914</X>
+<Y>2.575755596161</Y>
+<Z>-0.021897105500</Z>
+<R00>-1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>1.000000000000</R11>
+<R12>0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>-1.000000000000</R22>
+</CoordinateFrame>
+</Properties>
+</Item>
+<Item class="CFrameValue" referent="RBX41">
+<Properties>
+<string name="Name">J_spine02_06_Original</string>
+<CoordinateFrame name="Value">
+<X>0.000000000000</X>
+<Y>2.575755596161</Y>
+<Z>0.021897105500</Z>
+<R00>1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>1.000000000000</R11>
+<R12>0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>1.000000000000</R22>
+</CoordinateFrame>
+</Properties>
+</Item>
+<Item class="CFrameValue" referent="RBX42">
+<Properties>
+<string name="Name">J_spine02_06_Initial</string>
+<CoordinateFrame name="Value">
+<X>0.000000000000</X>
+<Y>2.575755596161</Y>
+<Z>0.021897105500</Z>
+<R00>1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>1.000000000000</R11>
+<R12>0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>1.000000000000</R22>
+</CoordinateFrame>
+</Properties>
+</Item>
+<Item class="CFrameValue" referent="RBX43">
+<Properties>
+<string name="Name">j_bust_l_07_Composited</string>
+<CoordinateFrame name="Value">
+<X>-0.122343659401</X>
+<Y>2.613705396652</Y>
+<Z>-0.022244291380</Z>
+<R00>-1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>1.000000000000</R11>
+<R12>0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>-1.000000000000</R22>
+</CoordinateFrame>
+</Properties>
+</Item>
+<Item class="CFrameValue" referent="RBX44">
+<Properties>
+<string name="Name">j_bust_l_07_Original</string>
+<CoordinateFrame name="Value">
+<X>0.122343659401</X>
+<Y>0.037949800491</Y>
+<Z>0.000347197056</Z>
+<R00>1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>1.000000000000</R11>
+<R12>0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>1.000000000000</R22>
+</CoordinateFrame>
+</Properties>
+</Item>
+<Item class="CFrameValue" referent="RBX45">
+<Properties>
+<string name="Name">j_bust_l_07_Initial</string>
+<CoordinateFrame name="Value">
+<X>0.122343659401</X>
+<Y>0.037949800491</Y>
+<Z>0.000347197056</Z>
+<R00>1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>1.000000000000</R11>
+<R12>0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>1.000000000000</R22>
+</CoordinateFrame>
+</Properties>
+</Item>
+<Item class="CFrameValue" referent="RBX46">
+<Properties>
+<string name="Name">j_bust_r_08_Composited</string>
+<CoordinateFrame name="Value">
+<X>0.122343659401</X>
+<Y>2.613705635071</Y>
+<Z>-0.022244315594</Z>
+<R00>1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>1.000000000000</R11>
+<R12>0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>1.000000000000</R22>
+</CoordinateFrame>
+</Properties>
+</Item>
+<Item class="CFrameValue" referent="RBX47">
+<Properties>
+<string name="Name">j_bust_r_08_Original</string>
+<CoordinateFrame name="Value">
+<X>0.122343666852</X>
+<Y>0.037950038910</Y>
+<Z>-0.000347185880</Z>
+<R00>1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>1.000000000000</R11>
+<R12>0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>1.000000000000</R22>
+</CoordinateFrame>
+</Properties>
+</Item>
+<Item class="CFrameValue" referent="RBX48">
+<Properties>
+<string name="Name">j_bust_r_08_Initial</string>
+<CoordinateFrame name="Value">
+<X>0.122343666852</X>
+<Y>0.037950038910</Y>
+<Z>-0.000347185880</Z>
+<R00>1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>1.000000000000</R11>
+<R12>0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>1.000000000000</R22>
+</CoordinateFrame>
+</Properties>
+</Item>
+<Item class="CFrameValue" referent="RBX49">
+<Properties>
+<string name="Name">l_collar_09_Composited</string>
+<CoordinateFrame name="Value">
+<X>-0.108894027770</X>
+<Y>2.880026817322</Y>
+<Z>0.062730126083</Z>
+<R00>-1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>1.000000000000</R11>
+<R12>0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>-1.000000000000</R22>
+</CoordinateFrame>
+</Properties>
+</Item>
+<Item class="CFrameValue" referent="RBX50">
+<Properties>
+<string name="Name">l_collar_09_Original</string>
+<CoordinateFrame name="Value">
+<X>0.108894035220</X>
+<Y>0.304271221161</Y>
+<Z>-0.084627225995</Z>
+<R00>1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>1.000000000000</R11>
+<R12>0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>1.000000000000</R22>
+</CoordinateFrame>
+</Properties>
+</Item>
+<Item class="CFrameValue" referent="RBX51">
+<Properties>
+<string name="Name">l_collar_09_Initial</string>
+<CoordinateFrame name="Value">
+<X>0.108894035220</X>
+<Y>0.304271221161</Y>
+<Z>-0.084627225995</Z>
+<R00>1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>1.000000000000</R11>
+<R12>0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>1.000000000000</R22>
+</CoordinateFrame>
+</Properties>
+</Item>
+<Item class="CFrameValue" referent="RBX52">
+<Properties>
+<string name="Name">l_arm_010_Composited</string>
+<CoordinateFrame name="Value">
+<X>-0.294928103685</X>
+<Y>2.876070022583</Y>
+<Z>0.054874598980</Z>
+<R00>-1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>1.000000000000</R11>
+<R12>0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>-1.000000000000</R22>
+</CoordinateFrame>
+</Properties>
+</Item>
+<Item class="CFrameValue" referent="RBX53">
+<Properties>
+<string name="Name">l_arm_010_Original</string>
+<CoordinateFrame name="Value">
+<X>0.186034068465</X>
+<Y>-0.003956794739</Y>
+<Z>0.007855545729</Z>
+<R00>1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>1.000000000000</R11>
+<R12>0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>1.000000000000</R22>
+</CoordinateFrame>
+</Properties>
+</Item>
+<Item class="CFrameValue" referent="RBX54">
+<Properties>
+<string name="Name">l_arm_010_Initial</string>
+<CoordinateFrame name="Value">
+<X>0.186034068465</X>
+<Y>-0.003956794739</Y>
+<Z>0.007855545729</Z>
+<R00>1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>1.000000000000</R11>
+<R12>0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>1.000000000000</R22>
+</CoordinateFrame>
+</Properties>
+</Item>
+<Item class="CFrameValue" referent="RBX55">
+<Properties>
+<string name="Name">l_arm_roll_011_Composited</string>
+<CoordinateFrame name="Value">
+<X>-0.563904404640</X>
+<Y>2.876070022583</Y>
+<Z>0.048434764147</Z>
+<R00>-1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>1.000000000000</R11>
+<R12>0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>-1.000000000000</R22>
+</CoordinateFrame>
+</Properties>
+</Item>
+<Item class="CFrameValue" referent="RBX56">
+<Properties>
+<string name="Name">l_arm_roll_011_Original</string>
+<CoordinateFrame name="Value">
+<X>0.268976300955</X>
+<Y>0.000000000000</Y>
+<Z>0.006439857185</Z>
+<R00>1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>1.000000000000</R11>
+<R12>0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>1.000000000000</R22>
+</CoordinateFrame>
+</Properties>
+</Item>
+<Item class="CFrameValue" referent="RBX57">
+<Properties>
+<string name="Name">l_arm_roll_011_Initial</string>
+<CoordinateFrame name="Value">
+<X>0.268976300955</X>
+<Y>0.000000000000</Y>
+<Z>0.006439857185</Z>
+<R00>1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>1.000000000000</R11>
+<R12>0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>1.000000000000</R22>
+</CoordinateFrame>
+</Properties>
+</Item>
+<Item class="CFrameValue" referent="RBX58">
+<Properties>
+<string name="Name">l_elbow_012_Composited</string>
+<CoordinateFrame name="Value">
+<X>-0.800071954727</X>
+<Y>2.876070022583</Y>
+<Z>0.077117465436</Z>
+<R00>-1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>1.000000000000</R11>
+<R12>0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>-1.000000000000</R22>
+</CoordinateFrame>
+</Properties>
+</Item>
+<Item class="CFrameValue" referent="RBX59">
+<Properties>
+<string name="Name">l_elbow_012_Original</string>
+<CoordinateFrame name="Value">
+<X>0.505143880844</X>
+<Y>0.000000000000</Y>
+<Z>-0.022242825478</Z>
+<R00>1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>1.000000000000</R11>
+<R12>0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>1.000000000000</R22>
+</CoordinateFrame>
+</Properties>
+</Item>
+<Item class="CFrameValue" referent="RBX60">
+<Properties>
+<string name="Name">l_elbow_012_Initial</string>
+<CoordinateFrame name="Value">
+<X>0.505143880844</X>
+<Y>0.000000000000</Y>
+<Z>-0.022242825478</Z>
+<R00>1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>1.000000000000</R11>
+<R12>0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>1.000000000000</R22>
+</CoordinateFrame>
+</Properties>
+</Item>
+<Item class="CFrameValue" referent="RBX61">
+<Properties>
+<string name="Name">l_hand_013_Composited</string>
+<CoordinateFrame name="Value">
+<X>-1.293583154678</X>
+<Y>2.876070022583</Y>
+<Z>0.037878591567</Z>
+<R00>-1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>1.000000000000</R11>
+<R12>0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>-1.000000000000</R22>
+</CoordinateFrame>
+</Properties>
+</Item>
+<Item class="CFrameValue" referent="RBX62">
+<Properties>
+<string name="Name">l_hand_013_Original</string>
+<CoordinateFrame name="Value">
+<X>0.493511199951</X>
+<Y>0.000000000000</Y>
+<Z>0.039238918573</Z>
+<R00>1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>1.000000000000</R11>
+<R12>0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>1.000000000000</R22>
+</CoordinateFrame>
+</Properties>
+</Item>
+<Item class="CFrameValue" referent="RBX63">
+<Properties>
+<string name="Name">l_hand_013_Initial</string>
+<CoordinateFrame name="Value">
+<X>0.493511199951</X>
+<Y>0.000000000000</Y>
+<Z>0.039238918573</Z>
+<R00>1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>1.000000000000</R11>
+<R12>0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>1.000000000000</R22>
+</CoordinateFrame>
+</Properties>
+</Item>
+<Item class="CFrameValue" referent="RBX64">
+<Properties>
+<string name="Name">l_index01_014_Composited</string>
+<CoordinateFrame name="Value">
+<X>-1.520105957985</X>
+<Y>2.880211353302</Y>
+<Z>-0.035752180964</Z>
+<R00>-1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>1.000000000000</R11>
+<R12>0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>-1.000000000000</R22>
+</CoordinateFrame>
+</Properties>
+</Item>
+<Item class="CFrameValue" referent="RBX65">
+<Properties>
+<string name="Name">l_index01_014_Original</string>
+<CoordinateFrame name="Value">
+<X>0.226522803307</X>
+<Y>0.004141330719</Y>
+<Z>0.073630794883</Z>
+<R00>1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>1.000000000000</R11>
+<R12>0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>1.000000000000</R22>
+</CoordinateFrame>
+</Properties>
+</Item>
+<Item class="CFrameValue" referent="RBX66">
+<Properties>
+<string name="Name">l_index01_014_Initial</string>
+<CoordinateFrame name="Value">
+<X>0.226522803307</X>
+<Y>0.004141330719</Y>
+<Z>0.073630794883</Z>
+<R00>1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>1.000000000000</R11>
+<R12>0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>1.000000000000</R22>
+</CoordinateFrame>
+</Properties>
+</Item>
+<Item class="CFrameValue" referent="RBX67">
+<Properties>
+<string name="Name">l_index02_015_Composited</string>
+<CoordinateFrame name="Value">
+<X>-1.580704092979</X>
+<Y>2.868960857391</Y>
+<Z>-0.038753300905</Z>
+<R00>-1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>1.000000000000</R11>
+<R12>0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>-1.000000000000</R22>
+</CoordinateFrame>
+</Properties>
+</Item>
+<Item class="CFrameValue" referent="RBX68">
+<Properties>
+<string name="Name">l_index02_015_Original</string>
+<CoordinateFrame name="Value">
+<X>0.060598134995</X>
+<Y>-0.011250495911</Y>
+<Z>0.003001123667</Z>
+<R00>1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>1.000000000000</R11>
+<R12>0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>1.000000000000</R22>
+</CoordinateFrame>
+</Properties>
+</Item>
+<Item class="CFrameValue" referent="RBX69">
+<Properties>
+<string name="Name">l_index02_015_Initial</string>
+<CoordinateFrame name="Value">
+<X>0.060598134995</X>
+<Y>-0.011250495911</Y>
+<Z>0.003001123667</Z>
+<R00>1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>1.000000000000</R11>
+<R12>0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>1.000000000000</R22>
+</CoordinateFrame>
+</Properties>
+</Item>
+<Item class="CFrameValue" referent="RBX70">
+<Properties>
+<string name="Name">l_middle01_016_Composited</string>
+<CoordinateFrame name="Value">
+<X>-1.530736446381</X>
+<Y>2.885875940323</Y>
+<Z>0.010872418992</Z>
+<R00>-1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>1.000000000000</R11>
+<R12>0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>-1.000000000000</R22>
+</CoordinateFrame>
+</Properties>
+</Item>
+<Item class="CFrameValue" referent="RBX71">
+<Properties>
+<string name="Name">l_middle01_016_Original</string>
+<CoordinateFrame name="Value">
+<X>0.237153291702</X>
+<Y>0.009805917740</Y>
+<Z>0.027006193995</Z>
+<R00>1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>1.000000000000</R11>
+<R12>0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>1.000000000000</R22>
+</CoordinateFrame>
+</Properties>
+</Item>
+<Item class="CFrameValue" referent="RBX72">
+<Properties>
+<string name="Name">l_middle01_016_Initial</string>
+<CoordinateFrame name="Value">
+<X>0.237153291702</X>
+<Y>0.009805917740</Y>
+<Z>0.027006193995</Z>
+<R00>1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>1.000000000000</R11>
+<R12>0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>1.000000000000</R22>
+</CoordinateFrame>
+</Properties>
+</Item>
+<Item class="CFrameValue" referent="RBX73">
+<Properties>
+<string name="Name">l_middle02_017_Composited</string>
+<CoordinateFrame name="Value">
+<X>-1.586026906967</X>
+<Y>2.876153230667</Y>
+<Z>0.011622987688</Z>
+<R00>-1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>1.000000000000</R11>
+<R12>0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>-1.000000000000</R22>
+</CoordinateFrame>
+</Properties>
+</Item>
+<Item class="CFrameValue" referent="RBX74">
+<Properties>
+<string name="Name">l_middle02_017_Original</string>
+<CoordinateFrame name="Value">
+<X>0.055290460587</X>
+<Y>-0.009722709656</Y>
+<Z>-0.000750564039</Z>
+<R00>1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>1.000000000000</R11>
+<R12>0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>1.000000000000</R22>
+</CoordinateFrame>
+</Properties>
+</Item>
+<Item class="CFrameValue" referent="RBX75">
+<Properties>
+<string name="Name">l_middle02_017_Initial</string>
+<CoordinateFrame name="Value">
+<X>0.055290460587</X>
+<Y>-0.009722709656</Y>
+<Z>-0.000750564039</Z>
+<R00>1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>1.000000000000</R11>
+<R12>0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>1.000000000000</R22>
+</CoordinateFrame>
+</Properties>
+</Item>
+<Item class="CFrameValue" referent="RBX76">
+<Properties>
+<string name="Name">l_pinky01_018_Composited</string>
+<CoordinateFrame name="Value">
+<X>-1.508668780327</X>
+<Y>2.854206800461</Y>
+<Z>0.107536569238</Z>
+<R00>-1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>1.000000000000</R11>
+<R12>0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>-1.000000000000</R22>
+</CoordinateFrame>
+</Properties>
+</Item>
+<Item class="CFrameValue" referent="RBX77">
+<Properties>
+<string name="Name">l_pinky01_018_Original</string>
+<CoordinateFrame name="Value">
+<X>0.215085625648</X>
+<Y>-0.021863222122</Y>
+<Z>-0.069657951593</Z>
+<R00>1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>1.000000000000</R11>
+<R12>0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>1.000000000000</R22>
+</CoordinateFrame>
+</Properties>
+</Item>
+<Item class="CFrameValue" referent="RBX78">
+<Properties>
+<string name="Name">l_pinky01_018_Initial</string>
+<CoordinateFrame name="Value">
+<X>0.215085625648</X>
+<Y>-0.021863222122</Y>
+<Z>-0.069657951593</Z>
+<R00>1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>1.000000000000</R11>
+<R12>0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>1.000000000000</R22>
+</CoordinateFrame>
+</Properties>
+</Item>
+<Item class="CFrameValue" referent="RBX79">
+<Properties>
+<string name="Name">l_pinky02_019_Composited</string>
+<CoordinateFrame name="Value">
+<X>-1.554359674454</X>
+<Y>2.851721525192</Y>
+<Z>0.109857484698</Z>
+<R00>-1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>1.000000000000</R11>
+<R12>0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>-1.000000000000</R22>
+</CoordinateFrame>
+</Properties>
+</Item>
+<Item class="CFrameValue" referent="RBX80">
+<Properties>
+<string name="Name">l_pinky02_019_Original</string>
+<CoordinateFrame name="Value">
+<X>0.045690894127</X>
+<Y>-0.002485275269</Y>
+<Z>-0.002320915461</Z>
+<R00>1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>1.000000000000</R11>
+<R12>0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>1.000000000000</R22>
+</CoordinateFrame>
+</Properties>
+</Item>
+<Item class="CFrameValue" referent="RBX81">
+<Properties>
+<string name="Name">l_pinky02_019_Initial</string>
+<CoordinateFrame name="Value">
+<X>0.045690894127</X>
+<Y>-0.002485275269</Y>
+<Z>-0.002320915461</Z>
+<R00>1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>1.000000000000</R11>
+<R12>0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>1.000000000000</R22>
+</CoordinateFrame>
+</Properties>
+</Item>
+<Item class="CFrameValue" referent="RBX82">
+<Properties>
+<string name="Name">l_ring01_020_Composited</string>
+<CoordinateFrame name="Value">
+<X>-1.521266102791</X>
+<Y>2.874868631363</Y>
+<Z>0.062226086855</Z>
+<R00>-1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>1.000000000000</R11>
+<R12>0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>-1.000000000000</R22>
+</CoordinateFrame>
+</Properties>
+</Item>
+<Item class="CFrameValue" referent="RBX83">
+<Properties>
+<string name="Name">l_ring01_020_Original</string>
+<CoordinateFrame name="Value">
+<X>0.227682948112</X>
+<Y>-0.001201391220</Y>
+<Z>-0.024347472936</Z>
+<R00>1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>1.000000000000</R11>
+<R12>0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>1.000000000000</R22>
+</CoordinateFrame>
+</Properties>
+</Item>
+<Item class="CFrameValue" referent="RBX84">
+<Properties>
+<string name="Name">l_ring01_020_Initial</string>
+<CoordinateFrame name="Value">
+<X>0.227682948112</X>
+<Y>-0.001201391220</Y>
+<Z>-0.024347472936</Z>
+<R00>1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>1.000000000000</R11>
+<R12>0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>1.000000000000</R22>
+</CoordinateFrame>
+</Properties>
+</Item>
+<Item class="CFrameValue" referent="RBX85">
+<Properties>
+<string name="Name">l_ring02_021_Composited</string>
+<CoordinateFrame name="Value">
+<X>-1.575425148010</X>
+<Y>2.864612579346</Y>
+<Z>0.063735477626</Z>
+<R00>-1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>1.000000000000</R11>
+<R12>0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>-1.000000000000</R22>
+</CoordinateFrame>
+</Properties>
+</Item>
+<Item class="CFrameValue" referent="RBX86">
+<Properties>
+<string name="Name">l_ring02_021_Original</string>
+<CoordinateFrame name="Value">
+<X>0.054159045219</X>
+<Y>-0.010256052017</Y>
+<Z>-0.001509390771</Z>
+<R00>1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>1.000000000000</R11>
+<R12>0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>1.000000000000</R22>
+</CoordinateFrame>
+</Properties>
+</Item>
+<Item class="CFrameValue" referent="RBX87">
+<Properties>
+<string name="Name">l_ring02_021_Initial</string>
+<CoordinateFrame name="Value">
+<X>0.054159045219</X>
+<Y>-0.010256052017</Y>
+<Z>-0.001509390771</Z>
+<R00>1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>1.000000000000</R11>
+<R12>0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>1.000000000000</R22>
+</CoordinateFrame>
+</Properties>
+</Item>
+<Item class="CFrameValue" referent="RBX88">
+<Properties>
+<string name="Name">l_thumb01_022_Composited</string>
+<CoordinateFrame name="Value">
+<X>-1.447399616241</X>
+<Y>2.815460920334</Y>
+<Z>-0.078492701054</Z>
+<R00>-1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>1.000000000000</R11>
+<R12>0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>-1.000000000000</R22>
+</CoordinateFrame>
+</Properties>
+</Item>
+<Item class="CFrameValue" referent="RBX89">
+<Properties>
+<string name="Name">l_thumb01_022_Original</string>
+<CoordinateFrame name="Value">
+<X>0.153816461563</X>
+<Y>-0.060609102249</Y>
+<Z>0.116371303797</Z>
+<R00>1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>1.000000000000</R11>
+<R12>0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>1.000000000000</R22>
+</CoordinateFrame>
+</Properties>
+</Item>
+<Item class="CFrameValue" referent="RBX90">
+<Properties>
+<string name="Name">l_thumb01_022_Initial</string>
+<CoordinateFrame name="Value">
+<X>0.153816461563</X>
+<Y>-0.060609102249</Y>
+<Z>0.116371303797</Z>
+<R00>1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>1.000000000000</R11>
+<R12>0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>1.000000000000</R22>
+</CoordinateFrame>
+</Properties>
+</Item>
+<Item class="CFrameValue" referent="RBX91">
+<Properties>
+<string name="Name">l_thumb02_023_Composited</string>
+<CoordinateFrame name="Value">
+<X>-1.483699083328</X>
+<Y>2.791101932526</Y>
+<Z>-0.089374482632</Z>
+<R00>-1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>1.000000000000</R11>
+<R12>0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>-1.000000000000</R22>
+</CoordinateFrame>
+</Properties>
+</Item>
+<Item class="CFrameValue" referent="RBX92">
+<Properties>
+<string name="Name">l_thumb02_023_Original</string>
+<CoordinateFrame name="Value">
+<X>0.036299467087</X>
+<Y>-0.024358987808</Y>
+<Z>0.010881781578</Z>
+<R00>1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>1.000000000000</R11>
+<R12>0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>1.000000000000</R22>
+</CoordinateFrame>
+</Properties>
+</Item>
+<Item class="CFrameValue" referent="RBX93">
+<Properties>
+<string name="Name">l_thumb02_023_Initial</string>
+<CoordinateFrame name="Value">
+<X>0.036299467087</X>
+<Y>-0.024358987808</Y>
+<Z>0.010881781578</Z>
+<R00>1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>1.000000000000</R11>
+<R12>0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>1.000000000000</R22>
+</CoordinateFrame>
+</Properties>
+</Item>
+<Item class="CFrameValue" referent="RBX94">
+<Properties>
+<string name="Name">l_hand_roll_024_Composited</string>
+<CoordinateFrame name="Value">
+<X>-0.976121127605</X>
+<Y>2.876070022583</Y>
+<Z>0.043420899659</Z>
+<R00>-1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>1.000000000000</R11>
+<R12>0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>-1.000000000000</R22>
+</CoordinateFrame>
+</Properties>
+</Item>
+<Item class="CFrameValue" referent="RBX95">
+<Properties>
+<string name="Name">l_hand_roll_024_Original</string>
+<CoordinateFrame name="Value">
+<X>0.176049172878</X>
+<Y>0.000000000000</Y>
+<Z>0.033696584404</Z>
+<R00>1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>1.000000000000</R11>
+<R12>0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>1.000000000000</R22>
+</CoordinateFrame>
+</Properties>
+</Item>
+<Item class="CFrameValue" referent="RBX96">
+<Properties>
+<string name="Name">l_hand_roll_024_Initial</string>
+<CoordinateFrame name="Value">
+<X>0.176049172878</X>
+<Y>0.000000000000</Y>
+<Z>0.033696584404</Z>
+<R00>1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>1.000000000000</R11>
+<R12>0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>1.000000000000</R22>
+</CoordinateFrame>
+</Properties>
+</Item>
+<Item class="CFrameValue" referent="RBX97">
+<Properties>
+<string name="Name">neck_025_Composited</string>
+<CoordinateFrame name="Value">
+<X>0.000000002659</X>
+<Y>2.994329214096</Y>
+<Z>0.030412703753</Z>
+<R00>-1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>1.000000000000</R11>
+<R12>0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>-1.000000000000</R22>
+</CoordinateFrame>
+</Properties>
+</Item>
+<Item class="CFrameValue" referent="RBX98">
+<Properties>
+<string name="Name">neck_025_Original</string>
+<CoordinateFrame name="Value">
+<X>0.000000000000</X>
+<Y>0.418573617935</Y>
+<Z>-0.052309811115</Z>
+<R00>1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>1.000000000000</R11>
+<R12>0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>1.000000000000</R22>
+</CoordinateFrame>
+</Properties>
+</Item>
+<Item class="CFrameValue" referent="RBX99">
+<Properties>
+<string name="Name">neck_025_Initial</string>
+<CoordinateFrame name="Value">
+<X>0.000000000000</X>
+<Y>0.418573617935</Y>
+<Z>-0.052309811115</Z>
+<R00>1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>1.000000000000</R11>
+<R12>0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>1.000000000000</R22>
+</CoordinateFrame>
+</Properties>
+</Item>
+<Item class="CFrameValue" referent="RBX100">
+<Properties>
+<string name="Name">J_head_026_Composited</string>
+<CoordinateFrame name="Value">
+<X>-0.000000000806</X>
+<Y>3.152791023254</Y>
+<Z>-0.009223512374</Z>
+<R00>-1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>1.000000000000</R11>
+<R12>0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>-1.000000000000</R22>
+</CoordinateFrame>
+</Properties>
+</Item>
+<Item class="CFrameValue" referent="RBX101">
+<Properties>
+<string name="Name">J_head_026_Original</string>
+<CoordinateFrame name="Value">
+<X>0.000000000000</X>
+<Y>0.158461809158</Y>
+<Z>0.039636217058</Z>
+<R00>1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>1.000000000000</R11>
+<R12>0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>1.000000000000</R22>
+</CoordinateFrame>
+</Properties>
+</Item>
+<Item class="CFrameValue" referent="RBX102">
+<Properties>
+<string name="Name">J_head_026_Initial</string>
+<CoordinateFrame name="Value">
+<X>0.000000000000</X>
+<Y>0.158461809158</Y>
+<Z>0.039636217058</Z>
+<R00>1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>1.000000000000</R11>
+<R12>0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>1.000000000000</R22>
+</CoordinateFrame>
+</Properties>
+</Item>
+<Item class="CFrameValue" referent="RBX103">
+<Properties>
+<string name="Name">f_hair_027_Composited</string>
+<CoordinateFrame name="Value">
+<X>-0.008171586320</X>
+<Y>3.389408111572</Y>
+<Z>-0.259566068649</Z>
+<R00>-1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>1.000000000000</R11>
+<R12>0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>-1.000000000000</R22>
+</CoordinateFrame>
+</Properties>
+</Item>
+<Item class="CFrameValue" referent="RBX104">
+<Properties>
+<string name="Name">f_hair_027_Original</string>
+<CoordinateFrame name="Value">
+<X>0.008171563968</X>
+<Y>0.236617088318</Y>
+<Z>0.250342547894</Z>
+<R00>1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>1.000000000000</R11>
+<R12>0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>1.000000000000</R22>
+</CoordinateFrame>
+</Properties>
+</Item>
+<Item class="CFrameValue" referent="RBX105">
+<Properties>
+<string name="Name">f_hair_027_Initial</string>
+<CoordinateFrame name="Value">
+<X>0.008171563968</X>
+<Y>0.236617088318</Y>
+<Z>0.250342547894</Z>
+<R00>1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>1.000000000000</R11>
+<R12>0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>1.000000000000</R22>
+</CoordinateFrame>
+</Properties>
+</Item>
+<Item class="CFrameValue" referent="RBX106">
+<Properties>
+<string name="Name">l_hair01_028_Composited</string>
+<CoordinateFrame name="Value">
+<X>-0.203991189599</X>
+<Y>3.328567266464</Y>
+<Z>-0.147137820721</Z>
+<R00>-1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>1.000000000000</R11>
+<R12>0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>-1.000000000000</R22>
+</CoordinateFrame>
+</Properties>
+</Item>
+<Item class="CFrameValue" referent="RBX107">
+<Properties>
+<string name="Name">l_hair01_028_Original</string>
+<CoordinateFrame name="Value">
+<X>0.203991174698</X>
+<Y>0.175776243210</Y>
+<Z>0.137914329767</Z>
+<R00>1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>1.000000000000</R11>
+<R12>0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>1.000000000000</R22>
+</CoordinateFrame>
+</Properties>
+</Item>
+<Item class="CFrameValue" referent="RBX108">
+<Properties>
+<string name="Name">l_hair01_028_Initial</string>
+<CoordinateFrame name="Value">
+<X>0.203991174698</X>
+<Y>0.175776243210</Y>
+<Z>0.137914329767</Z>
+<R00>1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>1.000000000000</R11>
+<R12>0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>1.000000000000</R22>
+</CoordinateFrame>
+</Properties>
+</Item>
+<Item class="CFrameValue" referent="RBX109">
+<Properties>
+<string name="Name">l_hair02_029_Composited</string>
+<CoordinateFrame name="Value">
+<X>-0.177635207772</X>
+<Y>3.163851261139</Y>
+<Z>-0.140168562531</Z>
+<R00>-1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>1.000000000000</R11>
+<R12>0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>-1.000000000000</R22>
+</CoordinateFrame>
+</Properties>
+</Item>
+<Item class="CFrameValue" referent="RBX110">
+<Properties>
+<string name="Name">l_hair02_029_Original</string>
+<CoordinateFrame name="Value">
+<X>-0.026355981827</X>
+<Y>-0.164716005325</Y>
+<Z>-0.006969258189</Z>
+<R00>1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>1.000000000000</R11>
+<R12>0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>1.000000000000</R22>
+</CoordinateFrame>
+</Properties>
+</Item>
+<Item class="CFrameValue" referent="RBX111">
+<Properties>
+<string name="Name">l_hair02_029_Initial</string>
+<CoordinateFrame name="Value">
+<X>-0.026355981827</X>
+<Y>-0.164716005325</Y>
+<Z>-0.006969258189</Z>
+<R00>1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>1.000000000000</R11>
+<R12>0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>1.000000000000</R22>
+</CoordinateFrame>
+</Properties>
+</Item>
+<Item class="CFrameValue" referent="RBX112">
+<Properties>
+<string name="Name">r_hair01_030_Composited</string>
+<CoordinateFrame name="Value">
+<X>0.203991115093</X>
+<Y>3.328570604324</Y>
+<Z>-0.147137850523</Z>
+<R00>-1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>1.000000000000</R11>
+<R12>0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>-1.000000000000</R22>
+</CoordinateFrame>
+</Properties>
+</Item>
+<Item class="CFrameValue" referent="RBX113">
+<Properties>
+<string name="Name">r_hair01_030_Original</string>
+<CoordinateFrame name="Value">
+<X>-0.203991129994</X>
+<Y>0.175779581070</Y>
+<Z>0.137914329767</Z>
+<R00>1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>1.000000000000</R11>
+<R12>0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>1.000000000000</R22>
+</CoordinateFrame>
+</Properties>
+</Item>
+<Item class="CFrameValue" referent="RBX114">
+<Properties>
+<string name="Name">r_hair01_030_Initial</string>
+<CoordinateFrame name="Value">
+<X>-0.203991129994</X>
+<Y>0.175779581070</Y>
+<Z>0.137914329767</Z>
+<R00>1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>1.000000000000</R11>
+<R12>0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>1.000000000000</R22>
+</CoordinateFrame>
+</Properties>
+</Item>
+<Item class="CFrameValue" referent="RBX115">
+<Properties>
+<string name="Name">r_hair02_031_Composited</string>
+<CoordinateFrame name="Value">
+<X>0.177635207772</X>
+<Y>3.163851737976</Y>
+<Z>-0.140168696642</Z>
+<R00>-1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>1.000000000000</R11>
+<R12>0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>-1.000000000000</R22>
+</CoordinateFrame>
+</Properties>
+</Item>
+<Item class="CFrameValue" referent="RBX116">
+<Properties>
+<string name="Name">r_hair02_031_Original</string>
+<CoordinateFrame name="Value">
+<X>0.026355907321</X>
+<Y>-0.164718866348</Y>
+<Z>-0.006969153881</Z>
+<R00>1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>1.000000000000</R11>
+<R12>0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>1.000000000000</R22>
+</CoordinateFrame>
+</Properties>
+</Item>
+<Item class="CFrameValue" referent="RBX117">
+<Properties>
+<string name="Name">r_hair02_031_Initial</string>
+<CoordinateFrame name="Value">
+<X>0.026355907321</X>
+<Y>-0.164718866348</Y>
+<Z>-0.006969153881</Z>
+<R00>1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>1.000000000000</R11>
+<R12>0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>1.000000000000</R22>
+</CoordinateFrame>
+</Properties>
+</Item>
+<Item class="CFrameValue" referent="RBX118">
+<Properties>
+<string name="Name">r_collar_032_Composited</string>
+<CoordinateFrame name="Value">
+<X>0.108894094825</X>
+<Y>2.880036592484</Y>
+<Z>0.062730029225</Z>
+<R00>-1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>1.000000000000</R11>
+<R12>0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>-1.000000000000</R22>
+</CoordinateFrame>
+</Properties>
+</Item>
+<Item class="CFrameValue" referent="RBX119">
+<Properties>
+<string name="Name">r_collar_032_Original</string>
+<CoordinateFrame name="Value">
+<X>-0.108894087374</X>
+<Y>0.304280996323</Y>
+<Z>-0.084627144039</Z>
+<R00>1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>1.000000000000</R11>
+<R12>0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>1.000000000000</R22>
+</CoordinateFrame>
+</Properties>
+</Item>
+<Item class="CFrameValue" referent="RBX120">
+<Properties>
+<string name="Name">r_collar_032_Initial</string>
+<CoordinateFrame name="Value">
+<X>-0.108894087374</X>
+<Y>0.304280996323</Y>
+<Z>-0.084627144039</Z>
+<R00>1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>1.000000000000</R11>
+<R12>0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>1.000000000000</R22>
+</CoordinateFrame>
+</Properties>
+</Item>
+<Item class="CFrameValue" referent="RBX121">
+<Properties>
+<string name="Name">r_arm_033_Composited</string>
+<CoordinateFrame name="Value">
+<X>0.294928282499</X>
+<Y>2.876076936722</Y>
+<Z>0.054874438792</Z>
+<R00>-1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>1.000000000000</R11>
+<R12>0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>-1.000000000000</R22>
+</CoordinateFrame>
+</Properties>
+</Item>
+<Item class="CFrameValue" referent="RBX122">
+<Properties>
+<string name="Name">r_arm_033_Original</string>
+<CoordinateFrame name="Value">
+<X>-0.186034202576</X>
+<Y>-0.003959655762</Y>
+<Z>0.007855571806</Z>
+<R00>1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>1.000000000000</R11>
+<R12>0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>1.000000000000</R22>
+</CoordinateFrame>
+</Properties>
+</Item>
+<Item class="CFrameValue" referent="RBX123">
+<Properties>
+<string name="Name">r_arm_033_Initial</string>
+<CoordinateFrame name="Value">
+<X>-0.186034202576</X>
+<Y>-0.003959655762</Y>
+<Z>0.007855571806</Z>
+<R00>1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>1.000000000000</R11>
+<R12>0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>1.000000000000</R22>
+</CoordinateFrame>
+</Properties>
+</Item>
+<Item class="CFrameValue" referent="RBX124">
+<Properties>
+<string name="Name">r_arm_roll_034_Composited</string>
+<CoordinateFrame name="Value">
+<X>0.563904106617</X>
+<Y>2.876076936722</Y>
+<Z>0.048434689641</Z>
+<R00>-1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>1.000000000000</R11>
+<R12>0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>-1.000000000000</R22>
+</CoordinateFrame>
+</Properties>
+</Item>
+<Item class="CFrameValue" referent="RBX125">
+<Properties>
+<string name="Name">r_arm_roll_034_Original</string>
+<CoordinateFrame name="Value">
+<X>-0.268975824118</X>
+<Y>0.000000000000</Y>
+<Z>0.006439726800</Z>
+<R00>1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>1.000000000000</R11>
+<R12>0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>1.000000000000</R22>
+</CoordinateFrame>
+</Properties>
+</Item>
+<Item class="CFrameValue" referent="RBX126">
+<Properties>
+<string name="Name">r_arm_roll_034_Initial</string>
+<CoordinateFrame name="Value">
+<X>-0.268975824118</X>
+<Y>0.000000000000</Y>
+<Z>0.006439726800</Z>
+<R00>1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>1.000000000000</R11>
+<R12>0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>1.000000000000</R22>
+</CoordinateFrame>
+</Properties>
+</Item>
+<Item class="CFrameValue" referent="RBX127">
+<Properties>
+<string name="Name">r_elbow_035_Composited</string>
+<CoordinateFrame name="Value">
+<X>0.800071954727</X>
+<Y>2.876076936722</Y>
+<Z>0.077117368579</Z>
+<R00>-1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>1.000000000000</R11>
+<R12>0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>-1.000000000000</R22>
+</CoordinateFrame>
+</Properties>
+</Item>
+<Item class="CFrameValue" referent="RBX128">
+<Properties>
+<string name="Name">r_elbow_035_Original</string>
+<CoordinateFrame name="Value">
+<X>-0.505143642426</X>
+<Y>0.000000000000</Y>
+<Z>-0.022242970765</Z>
+<R00>1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>1.000000000000</R11>
+<R12>0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>1.000000000000</R22>
+</CoordinateFrame>
+</Properties>
+</Item>
+<Item class="CFrameValue" referent="RBX129">
+<Properties>
+<string name="Name">r_elbow_035_Initial</string>
+<CoordinateFrame name="Value">
+<X>-0.505143642426</X>
+<Y>0.000000000000</Y>
+<Z>-0.022242970765</Z>
+<R00>1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>1.000000000000</R11>
+<R12>0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>1.000000000000</R22>
+</CoordinateFrame>
+</Properties>
+</Item>
+<Item class="CFrameValue" referent="RBX130">
+<Properties>
+<string name="Name">r_hand_036_Composited</string>
+<CoordinateFrame name="Value">
+<X>1.293583989143</X>
+<Y>2.876076936722</Y>
+<Z>0.037878375500</Z>
+<R00>-1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>1.000000000000</R11>
+<R12>0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>-1.000000000000</R22>
+</CoordinateFrame>
+</Properties>
+</Item>
+<Item class="CFrameValue" referent="RBX131">
+<Properties>
+<string name="Name">r_hand_036_Original</string>
+<CoordinateFrame name="Value">
+<X>-0.493512034416</X>
+<Y>0.000000000000</Y>
+<Z>0.039238948375</Z>
+<R00>1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>1.000000000000</R11>
+<R12>0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>1.000000000000</R22>
+</CoordinateFrame>
+</Properties>
+</Item>
+<Item class="CFrameValue" referent="RBX132">
+<Properties>
+<string name="Name">r_hand_036_Initial</string>
+<CoordinateFrame name="Value">
+<X>-0.493512034416</X>
+<Y>0.000000000000</Y>
+<Z>0.039238948375</Z>
+<R00>1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>1.000000000000</R11>
+<R12>0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>1.000000000000</R22>
+</CoordinateFrame>
+</Properties>
+</Item>
+<Item class="CFrameValue" referent="RBX133">
+<Properties>
+<string name="Name">r_index01_037_Composited</string>
+<CoordinateFrame name="Value">
+<X>1.520106554031</X>
+<Y>2.880236625671</Y>
+<Z>-0.035752505064</Z>
+<R00>-1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>1.000000000000</R11>
+<R12>0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>-1.000000000000</R22>
+</CoordinateFrame>
+</Properties>
+</Item>
+<Item class="CFrameValue" referent="RBX134">
+<Properties>
+<string name="Name">r_index01_037_Original</string>
+<CoordinateFrame name="Value">
+<X>-0.226522564888</X>
+<Y>0.004159688950</Y>
+<Z>0.073630854487</Z>
+<R00>1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>1.000000000000</R11>
+<R12>0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>1.000000000000</R22>
+</CoordinateFrame>
+</Properties>
+</Item>
+<Item class="CFrameValue" referent="RBX135">
+<Properties>
+<string name="Name">r_index01_037_Initial</string>
+<CoordinateFrame name="Value">
+<X>-0.226522564888</X>
+<Y>0.004159688950</Y>
+<Z>0.073630854487</Z>
+<R00>1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>1.000000000000</R11>
+<R12>0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>1.000000000000</R22>
+</CoordinateFrame>
+</Properties>
+</Item>
+<Item class="CFrameValue" referent="RBX136">
+<Properties>
+<string name="Name">r_index02_038_Composited</string>
+<CoordinateFrame name="Value">
+<X>1.580704569817</X>
+<Y>2.868980884552</Y>
+<Z>-0.038753490895</Z>
+<R00>-1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>1.000000000000</R11>
+<R12>0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>-1.000000000000</R22>
+</CoordinateFrame>
+</Properties>
+</Item>
+<Item class="CFrameValue" referent="RBX137">
+<Properties>
+<string name="Name">r_index02_038_Original</string>
+<CoordinateFrame name="Value">
+<X>-0.060598015785</X>
+<Y>-0.011255741119</Y>
+<Z>0.003000982106</Z>
+<R00>1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>1.000000000000</R11>
+<R12>0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>1.000000000000</R22>
+</CoordinateFrame>
+</Properties>
+</Item>
+<Item class="CFrameValue" referent="RBX138">
+<Properties>
+<string name="Name">r_index02_038_Initial</string>
+<CoordinateFrame name="Value">
+<X>-0.060598015785</X>
+<Y>-0.011255741119</Y>
+<Z>0.003000982106</Z>
+<R00>1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>1.000000000000</R11>
+<R12>0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>1.000000000000</R22>
+</CoordinateFrame>
+</Properties>
+</Item>
+<Item class="CFrameValue" referent="RBX139">
+<Properties>
+<string name="Name">r_middle01_039_Composited</string>
+<CoordinateFrame name="Value">
+<X>1.530737042427</X>
+<Y>2.885886669159</Y>
+<Z>0.010872146115</Z>
+<R00>-1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>1.000000000000</R11>
+<R12>0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>-1.000000000000</R22>
+</CoordinateFrame>
+</Properties>
+</Item>
+<Item class="CFrameValue" referent="RBX140">
+<Properties>
+<string name="Name">r_middle01_039_Original</string>
+<CoordinateFrame name="Value">
+<X>-0.237153053284</X>
+<Y>0.009809732437</Y>
+<Z>0.027006207034</Z>
+<R00>1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>1.000000000000</R11>
+<R12>0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>1.000000000000</R22>
+</CoordinateFrame>
+</Properties>
+</Item>
+<Item class="CFrameValue" referent="RBX141">
+<Properties>
+<string name="Name">r_middle01_039_Initial</string>
+<CoordinateFrame name="Value">
+<X>-0.237153053284</X>
+<Y>0.009809732437</Y>
+<Z>0.027006207034</Z>
+<R00>1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>1.000000000000</R11>
+<R12>0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>1.000000000000</R22>
+</CoordinateFrame>
+</Properties>
+</Item>
+<Item class="CFrameValue" referent="RBX142">
+<Properties>
+<string name="Name">r_middle02_040_Composited</string>
+<CoordinateFrame name="Value">
+<X>1.586027622223</X>
+<Y>2.876166105270</Y>
+<Z>0.011622708291</Z>
+<R00>-1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>1.000000000000</R11>
+<R12>0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>-1.000000000000</R22>
+</CoordinateFrame>
+</Properties>
+</Item>
+<Item class="CFrameValue" referent="RBX143">
+<Properties>
+<string name="Name">r_middle02_040_Original</string>
+<CoordinateFrame name="Value">
+<X>-0.055290579796</X>
+<Y>-0.009720563889</Y>
+<Z>-0.000750566833</Z>
+<R00>1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>1.000000000000</R11>
+<R12>0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>1.000000000000</R22>
+</CoordinateFrame>
+</Properties>
+</Item>
+<Item class="CFrameValue" referent="RBX144">
+<Properties>
+<string name="Name">r_middle02_040_Initial</string>
+<CoordinateFrame name="Value">
+<X>-0.055290579796</X>
+<Y>-0.009720563889</Y>
+<Z>-0.000750566833</Z>
+<R00>1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>1.000000000000</R11>
+<R12>0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>1.000000000000</R22>
+</CoordinateFrame>
+</Properties>
+</Item>
+<Item class="CFrameValue" referent="RBX145">
+<Properties>
+<string name="Name">r_pinky01_041_Composited</string>
+<CoordinateFrame name="Value">
+<X>1.508668541908</X>
+<Y>2.854210853577</Y>
+<Z>0.107536382973</Z>
+<R00>-1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>1.000000000000</R11>
+<R12>0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>-1.000000000000</R22>
+</CoordinateFrame>
+</Properties>
+</Item>
+<Item class="CFrameValue" referent="RBX146">
+<Properties>
+<string name="Name">r_pinky01_041_Original</string>
+<CoordinateFrame name="Value">
+<X>-0.215084552765</X>
+<Y>-0.021866083145</Y>
+<Z>-0.069658026099</Z>
+<R00>1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>1.000000000000</R11>
+<R12>0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>1.000000000000</R22>
+</CoordinateFrame>
+</Properties>
+</Item>
+<Item class="CFrameValue" referent="RBX147">
+<Properties>
+<string name="Name">r_pinky01_041_Initial</string>
+<CoordinateFrame name="Value">
+<X>-0.215084552765</X>
+<Y>-0.021866083145</Y>
+<Z>-0.069658026099</Z>
+<R00>1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>1.000000000000</R11>
+<R12>0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>1.000000000000</R22>
+</CoordinateFrame>
+</Properties>
+</Item>
+<Item class="CFrameValue" referent="RBX148">
+<Properties>
+<string name="Name">r_pinky02_042_Composited</string>
+<CoordinateFrame name="Value">
+<X>1.554360628128</X>
+<Y>2.851741790771</Y>
+<Z>0.109857134521</Z>
+<R00>-1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>1.000000000000</R11>
+<R12>0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>-1.000000000000</R22>
+</CoordinateFrame>
+</Properties>
+</Item>
+<Item class="CFrameValue" referent="RBX149">
+<Properties>
+<string name="Name">r_pinky02_042_Original</string>
+<CoordinateFrame name="Value">
+<X>-0.045692086220</X>
+<Y>-0.002469062805</Y>
+<Z>-0.002320751548</Z>
+<R00>1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>1.000000000000</R11>
+<R12>0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>1.000000000000</R22>
+</CoordinateFrame>
+</Properties>
+</Item>
+<Item class="CFrameValue" referent="RBX150">
+<Properties>
+<string name="Name">r_pinky02_042_Initial</string>
+<CoordinateFrame name="Value">
+<X>-0.045692086220</X>
+<Y>-0.002469062805</Y>
+<Z>-0.002320751548</Z>
+<R00>1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>1.000000000000</R11>
+<R12>0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>1.000000000000</R22>
+</CoordinateFrame>
+</Properties>
+</Item>
+<Item class="CFrameValue" referent="RBX151">
+<Properties>
+<string name="Name">r_ring01_043_Composited</string>
+<CoordinateFrame name="Value">
+<X>1.521265625954</X>
+<Y>2.874876022339</Y>
+<Z>0.062225848436</Z>
+<R00>-1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>1.000000000000</R11>
+<R12>0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>-1.000000000000</R22>
+</CoordinateFrame>
+</Properties>
+</Item>
+<Item class="CFrameValue" referent="RBX152">
+<Properties>
+<string name="Name">r_ring01_043_Original</string>
+<CoordinateFrame name="Value">
+<X>-0.227681636810</X>
+<Y>-0.001200914383</Y>
+<Z>-0.024347495288</Z>
+<R00>1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>1.000000000000</R11>
+<R12>0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>1.000000000000</R22>
+</CoordinateFrame>
+</Properties>
+</Item>
+<Item class="CFrameValue" referent="RBX153">
+<Properties>
+<string name="Name">r_ring01_043_Initial</string>
+<CoordinateFrame name="Value">
+<X>-0.227681636810</X>
+<Y>-0.001200914383</Y>
+<Z>-0.024347495288</Z>
+<R00>1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>1.000000000000</R11>
+<R12>0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>1.000000000000</R22>
+</CoordinateFrame>
+</Properties>
+</Item>
+<Item class="CFrameValue" referent="RBX154">
+<Properties>
+<string name="Name">r_ring02_044_Composited</string>
+<CoordinateFrame name="Value">
+<X>1.575425982475</X>
+<Y>2.864621162415</Y>
+<Z>0.063735127449</Z>
+<R00>-1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>1.000000000000</R11>
+<R12>0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>-1.000000000000</R22>
+</CoordinateFrame>
+</Properties>
+</Item>
+<Item class="CFrameValue" referent="RBX155">
+<Properties>
+<string name="Name">r_ring02_044_Original</string>
+<CoordinateFrame name="Value">
+<X>-0.054160356522</X>
+<Y>-0.010254859924</Y>
+<Z>-0.001509279013</Z>
+<R00>1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>1.000000000000</R11>
+<R12>0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>1.000000000000</R22>
+</CoordinateFrame>
+</Properties>
+</Item>
+<Item class="CFrameValue" referent="RBX156">
+<Properties>
+<string name="Name">r_ring02_044_Initial</string>
+<CoordinateFrame name="Value">
+<X>-0.054160356522</X>
+<Y>-0.010254859924</Y>
+<Z>-0.001509279013</Z>
+<R00>1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>1.000000000000</R11>
+<R12>0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>1.000000000000</R22>
+</CoordinateFrame>
+</Properties>
+</Item>
+<Item class="CFrameValue" referent="RBX157">
+<Properties>
+<string name="Name">r_thumb01_045_Composited</string>
+<CoordinateFrame name="Value">
+<X>1.447398781776</X>
+<Y>2.815483570099</Y>
+<Z>-0.078492924571</Z>
+<R00>-1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>1.000000000000</R11>
+<R12>0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>-1.000000000000</R22>
+</CoordinateFrame>
+</Properties>
+</Item>
+<Item class="CFrameValue" referent="RBX158">
+<Properties>
+<string name="Name">r_thumb01_045_Original</string>
+<CoordinateFrame name="Value">
+<X>-0.153814792633</X>
+<Y>-0.060593366623</Y>
+<Z>0.116371288896</Z>
+<R00>1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>1.000000000000</R11>
+<R12>0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>1.000000000000</R22>
+</CoordinateFrame>
+</Properties>
+</Item>
+<Item class="CFrameValue" referent="RBX159">
+<Properties>
+<string name="Name">r_thumb01_045_Initial</string>
+<CoordinateFrame name="Value">
+<X>-0.153814792633</X>
+<Y>-0.060593366623</Y>
+<Z>0.116371288896</Z>
+<R00>1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>1.000000000000</R11>
+<R12>0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>1.000000000000</R22>
+</CoordinateFrame>
+</Properties>
+</Item>
+<Item class="CFrameValue" referent="RBX160">
+<Properties>
+<string name="Name">r_thumb02_046_Composited</string>
+<CoordinateFrame name="Value">
+<X>1.483699321747</X>
+<Y>2.791126251221</Y>
+<Z>-0.089374847710</Z>
+<R00>-1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>1.000000000000</R11>
+<R12>0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>-1.000000000000</R22>
+</CoordinateFrame>
+</Properties>
+</Item>
+<Item class="CFrameValue" referent="RBX161">
+<Properties>
+<string name="Name">r_thumb02_046_Original</string>
+<CoordinateFrame name="Value">
+<X>-0.036300539970</X>
+<Y>-0.024357318878</Y>
+<Z>0.010881923139</Z>
+<R00>1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>1.000000000000</R11>
+<R12>0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>1.000000000000</R22>
+</CoordinateFrame>
+</Properties>
+</Item>
+<Item class="CFrameValue" referent="RBX162">
+<Properties>
+<string name="Name">r_thumb02_046_Initial</string>
+<CoordinateFrame name="Value">
+<X>-0.036300539970</X>
+<Y>-0.024357318878</Y>
+<Z>0.010881923139</Z>
+<R00>1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>1.000000000000</R11>
+<R12>0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>1.000000000000</R22>
+</CoordinateFrame>
+</Properties>
+</Item>
+<Item class="CFrameValue" referent="RBX163">
+<Properties>
+<string name="Name">r_hand_roll_047_Composited</string>
+<CoordinateFrame name="Value">
+<X>0.976122140884</X>
+<Y>2.876076936722</Y>
+<Z>0.043420787901</Z>
+<R00>-1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>1.000000000000</R11>
+<R12>0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>-1.000000000000</R22>
+</CoordinateFrame>
+</Properties>
+</Item>
+<Item class="CFrameValue" referent="RBX164">
+<Properties>
+<string name="Name">r_hand_roll_047_Original</string>
+<CoordinateFrame name="Value">
+<X>-0.176050186157</X>
+<Y>0.000000000000</Y>
+<Z>0.033696562052</Z>
+<R00>1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>1.000000000000</R11>
+<R12>0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>1.000000000000</R22>
+</CoordinateFrame>
+</Properties>
+</Item>
+<Item class="CFrameValue" referent="RBX165">
+<Properties>
+<string name="Name">r_hand_roll_047_Initial</string>
+<CoordinateFrame name="Value">
+<X>-0.176050186157</X>
+<Y>0.000000000000</Y>
+<Z>0.033696562052</Z>
+<R00>1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>1.000000000000</R11>
+<R12>0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>1.000000000000</R22>
+</CoordinateFrame>
+</Properties>
+</Item>
+<Item class="CFrameValue" referent="RBX166">
+<Properties>
+<string name="Name">jacket_048_Composited</string>
+<CoordinateFrame name="Value">
+<X>-0.000000000211</X>
+<Y>2.110787153244</Y>
+<Z>-0.002412865870</Z>
+<R00>-1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>1.000000000000</R11>
+<R12>0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>-1.000000000000</R22>
+</CoordinateFrame>
+</Properties>
+</Item>
+<Item class="CFrameValue" referent="RBX167">
+<Properties>
+<string name="Name">jacket_048_Original</string>
+<CoordinateFrame name="Value">
+<X>-0.000000000000</X>
+<Y>-0.223212003708</Y>
+<Z>-0.043993856758</Z>
+<R00>1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>1.000000000000</R11>
+<R12>0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>1.000000000000</R22>
+</CoordinateFrame>
+</Properties>
+</Item>
+<Item class="CFrameValue" referent="RBX168">
+<Properties>
+<string name="Name">jacket_048_Initial</string>
+<CoordinateFrame name="Value">
+<X>-0.000000000000</X>
+<Y>-0.223212003708</Y>
+<Z>-0.043993856758</Z>
+<R00>1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>1.000000000000</R11>
+<R12>0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>1.000000000000</R22>
+</CoordinateFrame>
+</Properties>
+</Item>
+<Item class="CFrameValue" referent="RBX169">
+<Properties>
+<string name="Name">l_leg_049_Composited</string>
+<CoordinateFrame name="Value">
+<X>-0.155710101128</X>
+<Y>1.968635439873</Y>
+<Z>-0.004244421609</Z>
+<R00>-1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>1.000000000000</R11>
+<R12>0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>-1.000000000000</R22>
+</CoordinateFrame>
+</Properties>
+</Item>
+<Item class="CFrameValue" referent="RBX170">
+<Properties>
+<string name="Name">l_leg_049_Original</string>
+<CoordinateFrame name="Value">
+<X>0.155710101128</X>
+<Y>-0.365363717079</Y>
+<Z>-0.042162287980</Z>
+<R00>1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>1.000000000000</R11>
+<R12>0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>1.000000000000</R22>
+</CoordinateFrame>
+</Properties>
+</Item>
+<Item class="CFrameValue" referent="RBX171">
+<Properties>
+<string name="Name">l_leg_049_Initial</string>
+<CoordinateFrame name="Value">
+<X>0.155710101128</X>
+<Y>-0.365363717079</Y>
+<Z>-0.042162287980</Z>
+<R00>1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>1.000000000000</R11>
+<R12>0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>1.000000000000</R22>
+</CoordinateFrame>
+</Properties>
+</Item>
+<Item class="CFrameValue" referent="RBX172">
+<Properties>
+<string name="Name">l_knee_050_Composited</string>
+<CoordinateFrame name="Value">
+<X>-0.155710101128</X>
+<Y>1.156341433525</Y>
+<Z>-0.024209035560</Z>
+<R00>-1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>1.000000000000</R11>
+<R12>0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>-1.000000000000</R22>
+</CoordinateFrame>
+</Properties>
+</Item>
+<Item class="CFrameValue" referent="RBX173">
+<Properties>
+<string name="Name">l_knee_050_Original</string>
+<CoordinateFrame name="Value">
+<X>0.000000000000</X>
+<Y>-0.812294006348</Y>
+<Z>0.019964613020</Z>
+<R00>1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>1.000000000000</R11>
+<R12>0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>1.000000000000</R22>
+</CoordinateFrame>
+</Properties>
+</Item>
+<Item class="CFrameValue" referent="RBX174">
+<Properties>
+<string name="Name">l_knee_050_Initial</string>
+<CoordinateFrame name="Value">
+<X>0.000000000000</X>
+<Y>-0.812294006348</Y>
+<Z>0.019964613020</Z>
+<R00>1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>1.000000000000</R11>
+<R12>0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>1.000000000000</R22>
+</CoordinateFrame>
+</Properties>
+</Item>
+<Item class="CFrameValue" referent="RBX175">
+<Properties>
+<string name="Name">l_foot_051_Composited</string>
+<CoordinateFrame name="Value">
+<X>-0.155710101128</X>
+<Y>0.346724748611</Y>
+<Z>0.070414468646</Z>
+<R00>-1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>1.000000000000</R11>
+<R12>0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>-1.000000000000</R22>
+</CoordinateFrame>
+</Properties>
+</Item>
+<Item class="CFrameValue" referent="RBX176">
+<Properties>
+<string name="Name">l_foot_051_Original</string>
+<CoordinateFrame name="Value">
+<X>0.000000000000</X>
+<Y>-0.809616684914</Y>
+<Z>-0.094623506069</Z>
+<R00>1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>1.000000000000</R11>
+<R12>0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>1.000000000000</R22>
+</CoordinateFrame>
+</Properties>
+</Item>
+<Item class="CFrameValue" referent="RBX177">
+<Properties>
+<string name="Name">l_foot_051_Initial</string>
+<CoordinateFrame name="Value">
+<X>0.000000000000</X>
+<Y>-0.809616684914</Y>
+<Z>-0.094623506069</Z>
+<R00>1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>1.000000000000</R11>
+<R12>0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>1.000000000000</R22>
+</CoordinateFrame>
+</Properties>
+</Item>
+<Item class="CFrameValue" referent="RBX178">
+<Properties>
+<string name="Name">l_toeBase_052_Composited</string>
+<CoordinateFrame name="Value">
+<X>-0.155710101128</X>
+<Y>0.109922289848</Y>
+<Z>-0.091426037252</Z>
+<R00>-1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>1.000000000000</R11>
+<R12>0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>-1.000000000000</R22>
+</CoordinateFrame>
+</Properties>
+</Item>
+<Item class="CFrameValue" referent="RBX179">
+<Properties>
+<string name="Name">l_toeBase_052_Original</string>
+<CoordinateFrame name="Value">
+<X>-0.000000014901</X>
+<Y>-0.236802458763</Y>
+<Z>0.161840498447</Z>
+<R00>1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>1.000000000000</R11>
+<R12>0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>1.000000000000</R22>
+</CoordinateFrame>
+</Properties>
+</Item>
+<Item class="CFrameValue" referent="RBX180">
+<Properties>
+<string name="Name">l_toeBase_052_Initial</string>
+<CoordinateFrame name="Value">
+<X>-0.000000014901</X>
+<Y>-0.236802458763</Y>
+<Z>0.161840498447</Z>
+<R00>1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>1.000000000000</R11>
+<R12>0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>1.000000000000</R22>
+</CoordinateFrame>
+</Properties>
+</Item>
+<Item class="CFrameValue" referent="RBX181">
+<Properties>
+<string name="Name">l_toe_053_Composited</string>
+<CoordinateFrame name="Value">
+<X>-0.155710130930</X>
+<Y>0.043376427144</Y>
+<Z>-0.223078191280</Z>
+<R00>1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>1.000000000000</R11>
+<R12>0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>1.000000000000</R22>
+</CoordinateFrame>
+</Properties>
+</Item>
+<Item class="CFrameValue" referent="RBX182">
+<Properties>
+<string name="Name">l_toe_053_Original</string>
+<CoordinateFrame name="Value">
+<X>0.000000029802</X>
+<Y>-0.066545903683</Y>
+<Z>-0.131652131677</Z>
+<R00>1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>1.000000000000</R11>
+<R12>0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>1.000000000000</R22>
+</CoordinateFrame>
+</Properties>
+</Item>
+<Item class="CFrameValue" referent="RBX183">
+<Properties>
+<string name="Name">l_toe_053_Initial</string>
+<CoordinateFrame name="Value">
+<X>0.000000029802</X>
+<Y>-0.066545903683</Y>
+<Z>-0.131652131677</Z>
+<R00>1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>1.000000000000</R11>
+<R12>0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>1.000000000000</R22>
+</CoordinateFrame>
+</Properties>
+</Item>
+<Item class="CFrameValue" referent="RBX184">
+<Properties>
+<string name="Name">l_leg_roll_054_Composited</string>
+<CoordinateFrame name="Value">
+<X>-0.155710101128</X>
+<Y>1.889031052589</Y>
+<Z>-0.004244421609</Z>
+<R00>-1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>1.000000000000</R11>
+<R12>0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>-1.000000000000</R22>
+</CoordinateFrame>
+</Properties>
+</Item>
+<Item class="CFrameValue" referent="RBX185">
+<Properties>
+<string name="Name">l_leg_roll_054_Original</string>
+<CoordinateFrame name="Value">
+<X>0.000000000000</X>
+<Y>-0.079604387283</Y>
+<Z>0.000000000000</Z>
+<R00>1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>1.000000000000</R11>
+<R12>0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>1.000000000000</R22>
+</CoordinateFrame>
+</Properties>
+</Item>
+<Item class="CFrameValue" referent="RBX186">
+<Properties>
+<string name="Name">l_leg_roll_054_Initial</string>
+<CoordinateFrame name="Value">
+<X>0.000000000000</X>
+<Y>-0.079604387283</Y>
+<Z>0.000000000000</Z>
+<R00>1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>1.000000000000</R11>
+<R12>0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>1.000000000000</R22>
+</CoordinateFrame>
+</Properties>
+</Item>
+<Item class="CFrameValue" referent="RBX187">
+<Properties>
+<string name="Name">r_leg_055_Composited</string>
+<CoordinateFrame name="Value">
+<X>0.155710101128</X>
+<Y>1.968636393547</Y>
+<Z>-0.004244449083</Z>
+<R00>-1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>1.000000000000</R11>
+<R12>0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>-1.000000000000</R22>
+</CoordinateFrame>
+</Properties>
+</Item>
+<Item class="CFrameValue" referent="RBX188">
+<Properties>
+<string name="Name">r_leg_055_Original</string>
+<CoordinateFrame name="Value">
+<X>-0.155710101128</X>
+<Y>-0.365362763405</Y>
+<Z>-0.042162287980</Z>
+<R00>1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>1.000000000000</R11>
+<R12>0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>1.000000000000</R22>
+</CoordinateFrame>
+</Properties>
+</Item>
+<Item class="CFrameValue" referent="RBX189">
+<Properties>
+<string name="Name">r_leg_055_Initial</string>
+<CoordinateFrame name="Value">
+<X>-0.155710101128</X>
+<Y>-0.365362763405</Y>
+<Z>-0.042162287980</Z>
+<R00>1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>1.000000000000</R11>
+<R12>0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>1.000000000000</R22>
+</CoordinateFrame>
+</Properties>
+</Item>
+<Item class="CFrameValue" referent="RBX190">
+<Properties>
+<string name="Name">r_knee_056_Composited</string>
+<CoordinateFrame name="Value">
+<X>0.155710101128</X>
+<Y>1.156341195107</Y>
+<Z>-0.024209154770</Z>
+<R00>-1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>1.000000000000</R11>
+<R12>0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>-1.000000000000</R22>
+</CoordinateFrame>
+</Properties>
+</Item>
+<Item class="CFrameValue" referent="RBX191">
+<Properties>
+<string name="Name">r_knee_056_Original</string>
+<CoordinateFrame name="Value">
+<X>0.000000000000</X>
+<Y>-0.812295198441</Y>
+<Z>0.019964706153</Z>
+<R00>1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>1.000000000000</R11>
+<R12>0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>1.000000000000</R22>
+</CoordinateFrame>
+</Properties>
+</Item>
+<Item class="CFrameValue" referent="RBX192">
+<Properties>
+<string name="Name">r_knee_056_Initial</string>
+<CoordinateFrame name="Value">
+<X>0.000000000000</X>
+<Y>-0.812295198441</Y>
+<Z>0.019964706153</Z>
+<R00>1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>1.000000000000</R11>
+<R12>0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>1.000000000000</R22>
+</CoordinateFrame>
+</Properties>
+</Item>
+<Item class="CFrameValue" referent="RBX193">
+<Properties>
+<string name="Name">r_foot_057_Composited</string>
+<CoordinateFrame name="Value">
+<X>0.155710101128</X>
+<Y>0.346724152565</Y>
+<Z>0.070414535701</Z>
+<R00>-1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>1.000000000000</R11>
+<R12>0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>-1.000000000000</R22>
+</CoordinateFrame>
+</Properties>
+</Item>
+<Item class="CFrameValue" referent="RBX194">
+<Properties>
+<string name="Name">r_foot_057_Original</string>
+<CoordinateFrame name="Value">
+<X>0.000000000000</X>
+<Y>-0.809617042542</Y>
+<Z>-0.094623692334</Z>
+<R00>1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>1.000000000000</R11>
+<R12>0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>1.000000000000</R22>
+</CoordinateFrame>
+</Properties>
+</Item>
+<Item class="CFrameValue" referent="RBX195">
+<Properties>
+<string name="Name">r_foot_057_Initial</string>
+<CoordinateFrame name="Value">
+<X>0.000000000000</X>
+<Y>-0.809617042542</Y>
+<Z>-0.094623692334</Z>
+<R00>1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>1.000000000000</R11>
+<R12>0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>1.000000000000</R22>
+</CoordinateFrame>
+</Properties>
+</Item>
+<Item class="CFrameValue" referent="RBX196">
+<Properties>
+<string name="Name">r_toeBase_058_Composited</string>
+<CoordinateFrame name="Value">
+<X>0.155710101128</X>
+<Y>0.109922289848</Y>
+<Z>-0.091426096857</Z>
+<R00>-1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>1.000000000000</R11>
+<R12>0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>-1.000000000000</R22>
+</CoordinateFrame>
+</Properties>
+</Item>
+<Item class="CFrameValue" referent="RBX197">
+<Properties>
+<string name="Name">r_toeBase_058_Original</string>
+<CoordinateFrame name="Value">
+<X>-0.000000014901</X>
+<Y>-0.236801862717</Y>
+<Z>0.161840632558</Z>
+<R00>1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>1.000000000000</R11>
+<R12>0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>1.000000000000</R22>
+</CoordinateFrame>
+</Properties>
+</Item>
+<Item class="CFrameValue" referent="RBX198">
+<Properties>
+<string name="Name">r_toeBase_058_Initial</string>
+<CoordinateFrame name="Value">
+<X>-0.000000014901</X>
+<Y>-0.236801862717</Y>
+<Z>0.161840632558</Z>
+<R00>1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>1.000000000000</R11>
+<R12>0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>1.000000000000</R22>
+</CoordinateFrame>
+</Properties>
+</Item>
+<Item class="CFrameValue" referent="RBX199">
+<Properties>
+<string name="Name">r_toe_059_Composited</string>
+<CoordinateFrame name="Value">
+<X>0.155710101128</X>
+<Y>0.043376427144</Y>
+<Z>-0.223110362887</Z>
+<R00>1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>1.000000000000</R11>
+<R12>0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>1.000000000000</R22>
+</CoordinateFrame>
+</Properties>
+</Item>
+<Item class="CFrameValue" referent="RBX200">
+<Properties>
+<string name="Name">r_toe_059_Original</string>
+<CoordinateFrame name="Value">
+<X>0.000000029802</X>
+<Y>-0.066546022892</Y>
+<Z>-0.131684258580</Z>
+<R00>1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>1.000000000000</R11>
+<R12>0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>1.000000000000</R22>
+</CoordinateFrame>
+</Properties>
+</Item>
+<Item class="CFrameValue" referent="RBX201">
+<Properties>
+<string name="Name">r_toe_059_Initial</string>
+<CoordinateFrame name="Value">
+<X>0.000000029802</X>
+<Y>-0.066546022892</Y>
+<Z>-0.131684258580</Z>
+<R00>1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>1.000000000000</R11>
+<R12>0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>1.000000000000</R22>
+</CoordinateFrame>
+</Properties>
+</Item>
+<Item class="CFrameValue" referent="RBX202">
+<Properties>
+<string name="Name">r_leg_roll_060_Composited</string>
+<CoordinateFrame name="Value">
+<X>0.155710101128</X>
+<Y>1.889030694962</Y>
+<Z>-0.004244449083</Z>
+<R00>-1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>1.000000000000</R11>
+<R12>0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>-1.000000000000</R22>
+</CoordinateFrame>
+</Properties>
+</Item>
+<Item class="CFrameValue" referent="RBX203">
+<Properties>
+<string name="Name">r_leg_roll_060_Original</string>
+<CoordinateFrame name="Value">
+<X>0.000000000000</X>
+<Y>-0.079605698586</Y>
+<Z>0.000000000000</Z>
+<R00>1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>1.000000000000</R11>
+<R12>0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>1.000000000000</R22>
+</CoordinateFrame>
+</Properties>
+</Item>
+<Item class="CFrameValue" referent="RBX204">
+<Properties>
+<string name="Name">r_leg_roll_060_Initial</string>
+<CoordinateFrame name="Value">
+<X>0.000000000000</X>
+<Y>-0.079605698586</Y>
+<Z>0.000000000000</Z>
+<R00>1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>1.000000000000</R11>
+<R12>0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>1.000000000000</R22>
+</CoordinateFrame>
+</Properties>
+</Item>
+<Item class="CFrameValue" referent="RBX205">
+<Properties>
+<string name="Name">GRP_mesh_061_Composited</string>
+</Properties>
+</Item>
+<Item class="CFrameValue" referent="RBX206">
+<Properties>
+<string name="Name">GRP_mesh_061_Original</string>
+</Properties>
+</Item>
+<Item class="CFrameValue" referent="RBX207">
+<Properties>
+<string name="Name">GRP_mesh_061_Initial</string>
+</Properties>
+</Item>
+<Item class="CFrameValue" referent="RBX208">
+<Properties>
+<string name="Name">z005_model_062_Composited</string>
+</Properties>
+</Item>
+<Item class="CFrameValue" referent="RBX209">
+<Properties>
+<string name="Name">z005_model_062_Original</string>
+</Properties>
+</Item>
+<Item class="CFrameValue" referent="RBX210">
+<Properties>
+<string name="Name">z005_model_062_Initial</string>
+</Properties>
+</Item>
+<Item class="CFrameValue" referent="RBX211">
+<Properties>
+<string name="Name">Object_6_Composited</string>
+</Properties>
+</Item>
+<Item class="CFrameValue" referent="RBX212">
+<Properties>
+<string name="Name">Object_6_Original</string>
+</Properties>
+</Item>
+<Item class="CFrameValue" referent="RBX213">
+<Properties>
+<string name="Name">Object_6_Initial</string>
+</Properties>
+</Item>
+<Item class="CFrameValue" referent="RBX214">
+<Properties>
+<string name="Name">z005_model_0_z005_body_0_Composited</string>
+<CoordinateFrame name="Value">
+<X>0.000000000000</X>
+<Y>0.000000000000</Y>
+<Z>0.000000000000</Z>
+<R00>-1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>1.000000000000</R11>
+<R12>0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>-1.000000000000</R22>
+</CoordinateFrame>
+</Properties>
+</Item>
+<Item class="CFrameValue" referent="RBX215">
+<Properties>
+<string name="Name">z005_model_0_z005_body_0_Original</string>
+<CoordinateFrame name="Value">
+<X>0.000000000000</X>
+<Y>0.000000000000</Y>
+<Z>0.000000000000</Z>
+<R00>-1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>1.000000000000</R11>
+<R12>0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>-1.000000000000</R22>
+</CoordinateFrame>
+</Properties>
+</Item>
+<Item class="CFrameValue" referent="RBX216">
+<Properties>
+<string name="Name">z005_model_0_z005_body_0_Initial</string>
+<CoordinateFrame name="Value">
+<X>0.000000000000</X>
+<Y>0.000000000000</Y>
+<Z>0.000000000000</Z>
+<R00>-1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>1.000000000000</R11>
+<R12>0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>-1.000000000000</R22>
+</CoordinateFrame>
+</Properties>
+</Item>
+<Item class="CFrameValue" referent="RBX217">
+<Properties>
+<string name="Name">Object_7_Composited</string>
+</Properties>
+</Item>
+<Item class="CFrameValue" referent="RBX218">
+<Properties>
+<string name="Name">Object_7_Original</string>
+</Properties>
+</Item>
+<Item class="CFrameValue" referent="RBX219">
+<Properties>
+<string name="Name">Object_7_Initial</string>
+</Properties>
+</Item>
+<Item class="CFrameValue" referent="RBX220">
+<Properties>
+<string name="Name">z005_model_1_face_eyes_0_Composited</string>
+<CoordinateFrame name="Value">
+<X>0.000000000000</X>
+<Y>0.000000000000</Y>
+<Z>0.000000000000</Z>
+<R00>-1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>1.000000000000</R11>
+<R12>0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>-1.000000000000</R22>
+</CoordinateFrame>
+</Properties>
+</Item>
+<Item class="CFrameValue" referent="RBX221">
+<Properties>
+<string name="Name">z005_model_1_face_eyes_0_Original</string>
+<CoordinateFrame name="Value">
+<X>0.000000000000</X>
+<Y>0.000000000000</Y>
+<Z>0.000000000000</Z>
+<R00>-1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>1.000000000000</R11>
+<R12>0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>-1.000000000000</R22>
+</CoordinateFrame>
+</Properties>
+</Item>
+<Item class="CFrameValue" referent="RBX222">
+<Properties>
+<string name="Name">z005_model_1_face_eyes_0_Initial</string>
+<CoordinateFrame name="Value">
+<X>0.000000000000</X>
+<Y>0.000000000000</Y>
+<Z>0.000000000000</Z>
+<R00>-1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>1.000000000000</R11>
+<R12>0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>-1.000000000000</R22>
+</CoordinateFrame>
+</Properties>
+</Item>
+<Item class="CFrameValue" referent="RBX223">
+<Properties>
+<string name="Name">Object_8_Composited</string>
+</Properties>
+</Item>
+<Item class="CFrameValue" referent="RBX224">
+<Properties>
+<string name="Name">Object_8_Original</string>
+</Properties>
+</Item>
+<Item class="CFrameValue" referent="RBX225">
+<Properties>
+<string name="Name">Object_8_Initial</string>
+</Properties>
+</Item>
+<Item class="CFrameValue" referent="RBX226">
+<Properties>
+<string name="Name">z005_model_2_face_mouth_0_Composited</string>
+<CoordinateFrame name="Value">
+<X>0.000000000000</X>
+<Y>0.000000000000</Y>
+<Z>0.000000000000</Z>
+<R00>-1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>1.000000000000</R11>
+<R12>0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>-1.000000000000</R22>
+</CoordinateFrame>
+</Properties>
+</Item>
+<Item class="CFrameValue" referent="RBX227">
+<Properties>
+<string name="Name">z005_model_2_face_mouth_0_Original</string>
+<CoordinateFrame name="Value">
+<X>0.000000000000</X>
+<Y>0.000000000000</Y>
+<Z>0.000000000000</Z>
+<R00>-1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>1.000000000000</R11>
+<R12>0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>-1.000000000000</R22>
+</CoordinateFrame>
+</Properties>
+</Item>
+<Item class="CFrameValue" referent="RBX228">
+<Properties>
+<string name="Name">z005_model_2_face_mouth_0_Initial</string>
+<CoordinateFrame name="Value">
+<X>0.000000000000</X>
+<Y>0.000000000000</Y>
+<Z>0.000000000000</Z>
+<R00>-1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>1.000000000000</R11>
+<R12>0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>-1.000000000000</R22>
+</CoordinateFrame>
+</Properties>
+</Item>
+</Item>
+<Item class="AnimationController" referent="RBX229">
+<Properties>
+</Properties>
+</Item>
+<Item class="ObjectValue" referent="RBX230">
+<Properties>
+<string name="Name">AnimSaves</string>
+</Properties>
+</Item>
+<Item class="Part" referent="RBX2">
+<Properties>
+<bool name="Anchored">true</bool>
+<CoordinateFrame name="CFrame">
+<X>-23.055936813354</X>
+<Y>1.653560161591</Y>
+<Z>-10.996197700500</Z>
+<R00>1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>1.000000000000</R11>
+<R12>0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>1.000000000000</R22>
+</CoordinateFrame>
+<string name="Name">RootPart</string>
+<Vector3 name="Size">
+<X>3.307120323181</X>
+<Y>3.307120323181</Y>
+<Z>1.653560161591</Z>
+</Vector3>
+<float name="Transparency">1.000000000000</float>
+</Properties>
+<Item class="Bone" referent="RBX231">
+<Properties>
+<CoordinateFrame name="CFrame">
+<X>0.000000000000</X>
+<Y>0.000000000000</Y>
+<Z>0.000000000000</Z>
+<R00>-1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>1.000000000000</R11>
+<R12>0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>-1.000000000000</R22>
+</CoordinateFrame>
+<string name="Name">_rootJoint</string>
+</Properties>
+<Item class="Bone" referent="RBX232">
+<Properties>
+<string name="Name">z005_00</string>
+</Properties>
+<Item class="Bone" referent="RBX233">
+<Properties>
+<string name="Name">GRP_joint_01</string>
+</Properties>
+<Item class="Bone" referent="RBX234">
+<Properties>
+<string name="Name">J_root_02</string>
+</Properties>
+<Item class="Bone" referent="RBX235">
+<Properties>
+<string name="Name">J_subroot_03</string>
+</Properties>
+<Item class="Bone" referent="RBX236">
+<Properties>
+<CoordinateFrame name="CFrame">
+<X>0.000000000000</X>
+<Y>3.859408140182</Y>
+<Z>0.076736308634</Z>
+<R00>1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>1.000000000000</R11>
+<R12>0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>1.000000000000</R22>
+</CoordinateFrame>
+<string name="Name">J_center_04</string>
+</Properties>
+<Item class="Bone" referent="RBX237">
+<Properties>
+<CoordinateFrame name="CFrame">
+<X>-0.257476031780</X>
+<Y>-0.604149281979</Y>
+<Z>-0.069717876613</Z>
+<R00>1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>1.000000000000</R11>
+<R12>0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>1.000000000000</R22>
+</CoordinateFrame>
+<string name="Name">r_leg_055</string>
+</Properties>
+<Item class="Bone" referent="RBX238">
+<Properties>
+<CoordinateFrame name="CFrame">
+<X>0.000000000000</X>
+<Y>-0.131632804871</Y>
+<Z>-0.000000002310</Z>
+<R00>1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>1.000000000000</R11>
+<R12>0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>1.000000000000</R22>
+</CoordinateFrame>
+<string name="Name">r_leg_roll_060</string>
+</Properties>
+</Item>
+<Item class="Bone" referent="RBX239">
+<Properties>
+<CoordinateFrame name="CFrame">
+<X>0.000000000000</X>
+<Y>-1.343178987503</Y>
+<Z>0.033012840897</Z>
+<R00>1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>1.000000000000</R11>
+<R12>0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>1.000000000000</R22>
+</CoordinateFrame>
+<string name="Name">r_knee_056</string>
+</Properties>
+<Item class="Bone" referent="RBX240">
+<Properties>
+<CoordinateFrame name="CFrame">
+<X>0.000000000000</X>
+<Y>-1.338750481606</Y>
+<Z>-0.156465962529</Z>
+<R00>1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>1.000000000000</R11>
+<R12>0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>1.000000000000</R22>
+</CoordinateFrame>
+<string name="Name">r_foot_057</string>
+</Properties>
+<Item class="Bone" referent="RBX241">
+<Properties>
+<CoordinateFrame name="CFrame">
+<X>0.000000000000</X>
+<Y>-0.391566127539</Y>
+<Z>0.267613232136</Z>
+<R00>1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>1.000000000000</R11>
+<R12>0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>1.000000000000</R22>
+</CoordinateFrame>
+<string name="Name">r_toeBase_058</string>
+</Properties>
+</Item>
+</Item>
+</Item>
+</Item>
+<Item class="Bone" referent="RBX242">
+<Properties>
+<CoordinateFrame name="CFrame">
+<X>-0.000000000000</X>
+<Y>-0.369094491005</Y>
+<Z>-0.072746485472</Z>
+<R00>1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>1.000000000000</R11>
+<R12>0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>1.000000000000</R22>
+</CoordinateFrame>
+<string name="Name">jacket_048</string>
+</Properties>
+</Item>
+<Item class="Bone" referent="RBX243">
+<Properties>
+<CoordinateFrame name="CFrame">
+<X>-0.000000000000</X>
+<Y>-3.859408140182</Y>
+<Z>-0.076736308634</Z>
+<R00>1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>1.000000000000</R11>
+<R12>0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>1.000000000000</R22>
+</CoordinateFrame>
+<string name="Name">J_spine01_05</string>
+</Properties>
+<Item class="Bone" referent="RBX244">
+<Properties>
+<CoordinateFrame name="CFrame">
+<X>0.000000000000</X>
+<Y>4.259166717529</Y>
+<Z>0.036208182573</Z>
+<R00>1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>1.000000000000</R11>
+<R12>0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>1.000000000000</R22>
+</CoordinateFrame>
+<string name="Name">J_spine02_06</string>
+</Properties>
+<Item class="Bone" referent="RBX245">
+<Properties>
+<CoordinateFrame name="CFrame">
+<X>0.180062845349</X>
+<Y>0.503130793571</Y>
+<Z>-0.139936208725</Z>
+<R00>1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>1.000000000000</R11>
+<R12>0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>1.000000000000</R22>
+</CoordinateFrame>
+<string name="Name">l_collar_09</string>
+</Properties>
+<Item class="Bone" referent="RBX246">
+<Properties>
+<CoordinateFrame name="CFrame">
+<X>0.307615280151</X>
+<Y>-0.006542682648</Y>
+<Z>0.012990951538</Z>
+<R00>0.443276107311</R00>
+<R01>0.896385133266</R01>
+<R02>0.000000000000</R02>
+<R10>-0.896385133266</R10>
+<R11>0.443276107311</R11>
+<R12>-0.000000000000</R12>
+<R20>-0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>1.000000000000</R22>
+</CoordinateFrame>
+<string name="Name">l_arm_010</string>
+</Properties>
+<Item class="Bone" referent="RBX247">
+<Properties>
+<CoordinateFrame name="CFrame">
+<X>0.835285186768</X>
+<Y>-0.000003814697</Y>
+<Z>-0.036780357361</Z>
+<R00>0.979178667068</R00>
+<R01>0.203000232577</R01>
+<R02>0.000000000000</R02>
+<R10>-0.203000232577</R10>
+<R11>0.979178667068</R11>
+<R12>-0.000000000000</R12>
+<R20>-0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>0.999999940395</R22>
+</CoordinateFrame>
+<string name="Name">l_elbow_012</string>
+</Properties>
+<Item class="Bone" referent="RBX248">
+<Properties>
+<CoordinateFrame name="CFrame">
+<X>0.816050469875</X>
+<Y>0.000000000000</Y>
+<Z>0.064883925021</Z>
+<R00>1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>1.000000000000</R11>
+<R12>0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>1.000000000000</R22>
+</CoordinateFrame>
+<string name="Name">l_hand_013</string>
+</Properties>
+<Item class="Bone" referent="RBX249">
+<Properties>
+<CoordinateFrame name="CFrame">
+<X>0.392147243023</X>
+<Y>0.016214674339</Y>
+<Z>0.044656366110</Z>
+<R00>1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>1.000000000000</R11>
+<R12>0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>1.000000000000</R22>
+</CoordinateFrame>
+<string name="Name">l_middle01_016</string>
+</Properties>
+<Item class="Bone" referent="RBX250">
+<Properties>
+<CoordinateFrame name="CFrame">
+<X>0.091426104307</X>
+<Y>-0.016077084467</Y>
+<Z>-0.001241104328</Z>
+<R00>1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>1.000000000000</R11>
+<R12>0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>1.000000000000</R22>
+</CoordinateFrame>
+<string name="Name">l_middle02_017</string>
+</Properties>
+</Item>
+</Item>
+<Item class="Bone" referent="RBX251">
+<Properties>
+<CoordinateFrame name="CFrame">
+<X>0.376487463713</X>
+<Y>-0.001986572752</Y>
+<Z>-0.040260009468</Z>
+<R00>1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>1.000000000000</R11>
+<R12>0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>1.000000000000</R22>
+</CoordinateFrame>
+<string name="Name">l_ring01_020</string>
+</Properties>
+<Item class="Bone" referent="RBX252">
+<Properties>
+<CoordinateFrame name="CFrame">
+<X>0.089555241168</X>
+<Y>-0.016958998516</Y>
+<Z>-0.002495868364</Z>
+<R00>1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>1.000000000000</R11>
+<R12>0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>1.000000000000</R22>
+</CoordinateFrame>
+<string name="Name">l_ring02_021</string>
+</Properties>
+</Item>
+</Item>
+<Item class="Bone" referent="RBX253">
+<Properties>
+<CoordinateFrame name="CFrame">
+<X>0.374569088221</X>
+<Y>0.006847939454</Y>
+<Z>0.121752947569</Z>
+<R00>1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>1.000000000000</R11>
+<R12>0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>1.000000000000</R22>
+</CoordinateFrame>
+<string name="Name">l_index01_014</string>
+</Properties>
+<Item class="Bone" referent="RBX254">
+<Properties>
+<CoordinateFrame name="CFrame">
+<X>0.100202664733</X>
+<Y>-0.018603371456</Y>
+<Z>0.004962538369</Z>
+<R00>1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>1.000000000000</R11>
+<R12>0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>1.000000000000</R22>
+</CoordinateFrame>
+<string name="Name">l_index02_015</string>
+</Properties>
+</Item>
+</Item>
+<Item class="Bone" referent="RBX255">
+<Properties>
+<CoordinateFrame name="CFrame">
+<X>0.355657011271</X>
+<Y>-0.036152154207</Y>
+<Z>-0.115183614194</Z>
+<R00>1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>1.000000000000</R11>
+<R12>0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>1.000000000000</R22>
+</CoordinateFrame>
+<string name="Name">l_pinky01_018</string>
+</Properties>
+<Item class="Bone" referent="RBX256">
+<Properties>
+<CoordinateFrame name="CFrame">
+<X>0.075552642345</X>
+<Y>-0.004109552130</Y>
+<Z>-0.003837773344</Z>
+<R00>1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>1.000000000000</R11>
+<R12>0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>1.000000000000</R22>
+</CoordinateFrame>
+<string name="Name">l_pinky02_019</string>
+</Properties>
+</Item>
+</Item>
+<Item class="Bone" referent="RBX257">
+<Properties>
+<CoordinateFrame name="CFrame">
+<X>0.254344761372</X>
+<Y>-0.100220799446</Y>
+<Z>0.192426949739</Z>
+<R00>1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>1.000000000000</R11>
+<R12>0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>1.000000000000</R22>
+</CoordinateFrame>
+<string name="Name">l_thumb01_022</string>
+</Properties>
+<Item class="Bone" referent="RBX258">
+<Properties>
+<CoordinateFrame name="CFrame">
+<X>0.060023352504</X>
+<Y>-0.040279053152</Y>
+<Z>0.017993681133</Z>
+<R00>1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>1.000000000000</R11>
+<R12>0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>1.000000000000</R22>
+</CoordinateFrame>
+<string name="Name">l_thumb02_023</string>
+</Properties>
+</Item>
+</Item>
+</Item>
+<Item class="Bone" referent="RBX259">
+<Properties>
+<CoordinateFrame name="CFrame">
+<X>0.291107892990</X>
+<Y>0.000000000000</Y>
+<Z>0.055719342083</Z>
+<R00>1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>1.000000000000</R11>
+<R12>0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>1.000000000000</R22>
+</CoordinateFrame>
+<string name="Name">l_hand_roll_024</string>
+</Properties>
+</Item>
+</Item>
+<Item class="Bone" referent="RBX260">
+<Properties>
+<CoordinateFrame name="CFrame">
+<X>0.444768488407</X>
+<Y>0.000000000000</Y>
+<Z>0.010648685507</Z>
+<R00>1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>1.000000000000</R11>
+<R12>0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>1.000000000000</R22>
+</CoordinateFrame>
+<string name="Name">l_arm_roll_011</string>
+</Properties>
+</Item>
+</Item>
+</Item>
+<Item class="Bone" referent="RBX261">
+<Properties>
+<CoordinateFrame name="CFrame">
+<X>0.000000000000</X>
+<Y>0.692136645317</Y>
+<Z>-0.086497418582</Z>
+<R00>1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>1.000000000000</R11>
+<R12>0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>1.000000000000</R22>
+</CoordinateFrame>
+<string name="Name">neck_025</string>
+</Properties>
+<Item class="Bone" referent="RBX262">
+<Properties>
+<CoordinateFrame name="CFrame">
+<X>0.000000000000</X>
+<Y>0.262026131153</Y>
+<Z>0.065540872514</Z>
+<R00>1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>1.000000000000</R11>
+<R12>0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>1.000000000000</R22>
+</CoordinateFrame>
+<string name="Name">J_head_026</string>
+</Properties>
+<Item class="Bone" referent="RBX263">
+<Properties>
+<CoordinateFrame name="CFrame">
+<X>0.337311685085</X>
+<Y>0.290656596422</Y>
+<Z>0.228049635887</Z>
+<R00>1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>1.000000000000</R11>
+<R12>0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>1.000000000000</R22>
+</CoordinateFrame>
+<string name="Name">l_hair01_028</string>
+</Properties>
+<Item class="Bone" referent="RBX264">
+<Properties>
+<CoordinateFrame name="CFrame">
+<X>-0.043581202626</X>
+<Y>-0.272367835045</Y>
+<Z>-0.011524087749</Z>
+<R00>1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>1.000000000000</R11>
+<R12>0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>1.000000000000</R22>
+</CoordinateFrame>
+<string name="Name">l_hair02_029</string>
+</Properties>
+</Item>
+</Item>
+<Item class="Bone" referent="RBX265">
+<Properties>
+<CoordinateFrame name="CFrame">
+<X>0.013512172736</X>
+<Y>0.391260594130</Y>
+<Z>0.413956463337</Z>
+<R00>1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>1.000000000000</R11>
+<R12>0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>1.000000000000</R22>
+</CoordinateFrame>
+<string name="Name">f_hair_027</string>
+</Properties>
+</Item>
+<Item class="Bone" referent="RBX266">
+<Properties>
+<CoordinateFrame name="CFrame">
+<X>-0.337311595678</X>
+<Y>0.290662109852</Y>
+<Z>0.228049635887</Z>
+<R00>1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>1.000000000000</R11>
+<R12>0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>1.000000000000</R22>
+</CoordinateFrame>
+<string name="Name">r_hair01_030</string>
+</Properties>
+<Item class="Bone" referent="RBX267">
+<Properties>
+<CoordinateFrame name="CFrame">
+<X>0.043581079692</X>
+<Y>-0.272372543812</Y>
+<Z>-0.011523915455</Z>
+<R00>1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>1.000000000000</R11>
+<R12>0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>1.000000000000</R22>
+</CoordinateFrame>
+<string name="Name">r_hair02_031</string>
+</Properties>
+</Item>
+</Item>
+</Item>
+</Item>
+<Item class="Bone" referent="RBX268">
+<Properties>
+<CoordinateFrame name="CFrame">
+<X>0.202302604914</X>
+<Y>0.062752276659</Y>
+<Z>0.000574111240</Z>
+<R00>1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>1.000000000000</R11>
+<R12>0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>1.000000000000</R22>
+</CoordinateFrame>
+<string name="Name">j_bust_l_07</string>
+</Properties>
+</Item>
+<Item class="Bone" referent="RBX269">
+<Properties>
+<CoordinateFrame name="CFrame">
+<X>-0.180062919855</X>
+<Y>0.503146946430</Y>
+<Z>-0.139936074615</Z>
+<R00>1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>1.000000000000</R11>
+<R12>0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>1.000000000000</R22>
+</CoordinateFrame>
+<string name="Name">r_collar_032</string>
+</Properties>
+<Item class="Bone" referent="RBX270">
+<Properties>
+<CoordinateFrame name="CFrame">
+<X>-0.307621002197</X>
+<Y>-0.006547451019</Y>
+<Z>0.012989997864</Z>
+<R00>0.463045537472</R00>
+<R01>-0.886334538460</R01>
+<R02>0.000000000000</R02>
+<R10>0.886334538460</R10>
+<R11>0.463045537472</R11>
+<R12>-0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>1.000000119209</R22>
+</CoordinateFrame>
+<string name="Name">r_arm_033</string>
+</Properties>
+<Item class="Bone" referent="RBX271">
+<Properties>
+<CoordinateFrame name="CFrame">
+<X>-0.835285186768</X>
+<Y>0.000000000000</Y>
+<Z>-0.036780357361</Z>
+<R00>0.973816215992</R00>
+<R01>-0.227336749434</R01>
+<R02>0.000000000000</R02>
+<R10>0.227336749434</R10>
+<R11>0.973816215992</R11>
+<R12>-0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>1.000000000000</R22>
+</CoordinateFrame>
+<string name="Name">r_elbow_035</string>
+</Properties>
+<Item class="Bone" referent="RBX272">
+<Properties>
+<CoordinateFrame name="CFrame">
+<X>-0.291109561920</X>
+<Y>0.000000000000</Y>
+<Z>0.055719293654</Z>
+<R00>1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>1.000000000000</R11>
+<R12>0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>1.000000000000</R22>
+</CoordinateFrame>
+<string name="Name">r_hand_roll_047</string>
+</Properties>
+</Item>
+<Item class="Bone" referent="RBX273">
+<Properties>
+<CoordinateFrame name="CFrame">
+<X>-0.816051840782</X>
+<Y>0.000000000000</Y>
+<Z>0.064883962274</Z>
+<R00>1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>1.000000000000</R11>
+<R12>0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>1.000000000000</R22>
+</CoordinateFrame>
+<string name="Name">r_hand_036</string>
+</Properties>
+<Item class="Bone" referent="RBX274">
+<Properties>
+<CoordinateFrame name="CFrame">
+<X>-0.392146855593</X>
+<Y>0.016220983118</Y>
+<Z>0.044656388462</Z>
+<R00>1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>1.000000000000</R11>
+<R12>0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>1.000000000000</R22>
+</CoordinateFrame>
+<string name="Name">r_middle01_039</string>
+</Properties>
+<Item class="Bone" referent="RBX275">
+<Properties>
+<CoordinateFrame name="CFrame">
+<X>-0.091426298022</X>
+<Y>-0.016073537990</Y>
+<Z>-0.001241104328</Z>
+<R00>1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>1.000000000000</R11>
+<R12>0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>1.000000000000</R22>
+</CoordinateFrame>
+<string name="Name">r_middle02_040</string>
+</Properties>
+</Item>
+</Item>
+<Item class="Bone" referent="RBX276">
+<Properties>
+<CoordinateFrame name="CFrame">
+<X>-0.376485288143</X>
+<Y>-0.001985784154</Y>
+<Z>-0.040260046721</Z>
+<R00>1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>1.000000000000</R11>
+<R12>0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>1.000000000000</R22>
+</CoordinateFrame>
+<string name="Name">r_ring01_043</string>
+</Properties>
+<Item class="Bone" referent="RBX277">
+<Properties>
+<CoordinateFrame name="CFrame">
+<X>-0.089557409286</X>
+<Y>-0.016957027838</Y>
+<Z>-0.002495683730</Z>
+<R00>1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>1.000000000000</R11>
+<R12>0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>1.000000000000</R22>
+</CoordinateFrame>
+<string name="Name">r_ring02_044</string>
+</Properties>
+</Item>
+</Item>
+<Item class="Bone" referent="RBX278">
+<Properties>
+<CoordinateFrame name="CFrame">
+<X>-0.374568700790</X>
+<Y>0.006878295913</Y>
+<Z>0.121753044426</Z>
+<R00>1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>1.000000000000</R11>
+<R12>0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>1.000000000000</R22>
+</CoordinateFrame>
+<string name="Name">r_index01_037</string>
+</Properties>
+<Item class="Bone" referent="RBX279">
+<Properties>
+<CoordinateFrame name="CFrame">
+<X>-0.100202463567</X>
+<Y>-0.018612045795</Y>
+<Z>0.004962310661</Z>
+<R00>1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>1.000000000000</R11>
+<R12>0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>1.000000000000</R22>
+</CoordinateFrame>
+<string name="Name">r_index02_038</string>
+</Properties>
+</Item>
+</Item>
+<Item class="Bone" referent="RBX280">
+<Properties>
+<CoordinateFrame name="CFrame">
+<X>-0.355655252934</X>
+<Y>-0.036156885326</Y>
+<Z>-0.115183733404</Z>
+<R00>1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>1.000000000000</R11>
+<R12>0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>1.000000000000</R22>
+</CoordinateFrame>
+<string name="Name">r_pinky01_041</string>
+</Properties>
+<Item class="Bone" referent="RBX281">
+<Properties>
+<CoordinateFrame name="CFrame">
+<X>-0.075554616749</X>
+<Y>-0.004082744010</Y>
+<Z>-0.003837514669</Z>
+<R00>1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>1.000000000000</R11>
+<R12>0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>1.000000000000</R22>
+</CoordinateFrame>
+<string name="Name">r_pinky02_042</string>
+</Properties>
+</Item>
+</Item>
+<Item class="Bone" referent="RBX282">
+<Properties>
+<CoordinateFrame name="CFrame">
+<X>-0.254342019558</X>
+<Y>-0.100194774568</Y>
+<Z>0.192426919937</Z>
+<R00>1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>1.000000000000</R11>
+<R12>0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>1.000000000000</R22>
+</CoordinateFrame>
+<string name="Name">r_thumb01_045</string>
+</Properties>
+<Item class="Bone" referent="RBX283">
+<Properties>
+<CoordinateFrame name="CFrame">
+<X>-0.060025125742</X>
+<Y>-0.040276292711</Y>
+<Z>0.017993913963</Z>
+<R00>1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>1.000000000000</R11>
+<R12>0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>1.000000000000</R22>
+</CoordinateFrame>
+<string name="Name">r_thumb02_046</string>
+</Properties>
+</Item>
+</Item>
+</Item>
+</Item>
+<Item class="Bone" referent="RBX284">
+<Properties>
+<CoordinateFrame name="CFrame">
+<X>-0.444767653942</X>
+<Y>0.000000000000</Y>
+<Z>0.010648481548</Z>
+<R00>1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>1.000000000000</R11>
+<R12>0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>1.000000000000</R22>
+</CoordinateFrame>
+<string name="Name">r_arm_roll_034</string>
+</Properties>
+</Item>
+</Item>
+</Item>
+</Item>
+</Item>
+<Item class="Bone" referent="RBX285">
+<Properties>
+<CoordinateFrame name="CFrame">
+<X>0.257476031780</X>
+<Y>-0.604150891304</Y>
+<Z>-0.069717876613</Z>
+<R00>1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>1.000000000000</R11>
+<R12>0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>1.000000000000</R22>
+</CoordinateFrame>
+<string name="Name">l_leg_049</string>
+</Properties>
+<Item class="Bone" referent="RBX286">
+<Properties>
+<CoordinateFrame name="CFrame">
+<X>0.000000000000</X>
+<Y>-1.343176960945</Y>
+<Z>0.033012691885</Z>
+<R00>1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>1.000000000000</R11>
+<R12>0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>1.000000000000</R22>
+</CoordinateFrame>
+<string name="Name">l_knee_050</string>
+</Properties>
+<Item class="Bone" referent="RBX287">
+<Properties>
+<CoordinateFrame name="CFrame">
+<X>0.000000000000</X>
+<Y>-1.338749885559</Y>
+<Z>-0.156465664506</Z>
+<R00>1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>1.000000000000</R11>
+<R12>0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>1.000000000000</R22>
+</CoordinateFrame>
+<string name="Name">l_foot_051</string>
+</Properties>
+<Item class="Bone" referent="RBX288">
+<Properties>
+<CoordinateFrame name="CFrame">
+<X>0.000000000000</X>
+<Y>-0.391567111015</Y>
+<Z>0.267612993717</Z>
+<R00>1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>1.000000000000</R11>
+<R12>0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>1.000000000000</R22>
+</CoordinateFrame>
+<string name="Name">l_toeBase_052</string>
+</Properties>
+</Item>
+</Item>
+</Item>
+<Item class="Bone" referent="RBX289">
+<Properties>
+<CoordinateFrame name="CFrame">
+<X>0.000000000000</X>
+<Y>-0.131630644202</Y>
+<Z>0.000000001540</Z>
+<R00>1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>1.000000000000</R11>
+<R12>0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>1.000000000000</R22>
+</CoordinateFrame>
+<string name="Name">l_leg_roll_054</string>
+</Properties>
+</Item>
+</Item>
+</Item>
+</Item>
+</Item>
+</Item>
+</Item>
+</Item>
+</Item>
+<Item class="MeshPart" referent="RBX290">
+<Properties>
+<bool name="Anchored">true</bool>
+<CoordinateFrame name="CFrame">
+<X>-23.055936813354</X>
+<Y>4.621937751770</Y>
+<Z>-10.998118400574</Z>
+<R00>1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>1.000000000000</R11>
+<R12>0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>1.000000000000</R22>
+</CoordinateFrame>
+<bool name="HasSkinnedMesh">true</bool>
+<Vector3 name="InitialSize">
+<X>3.394605159760</X>
+<Y>3.590286731720</Y>
+<Z>0.701088905334</Z>
+</Vector3>
+<Content name="MeshId"><url>rbxassetid://88577109211437</url></Content>
+<string name="Name">z005_model_0_z005_body_0</string>
+<SharedString name="PhysicalConfigData">MjBEQkEwODlDMjk4OTUyQw==</SharedString>
+<BinaryString name="PhysicsData"><![CDATA[]]></BinaryString>
+<Vector3 name="Size">
+<X>5.613183975220</X>
+<Y>5.936755180359</Y>
+<Z>1.159292697906</Z>
+</Vector3>
+<Content name="TextureID"><url>rbxassetid://116281257698056</url></Content>
+</Properties>
+<Item class="Motor6D" referent="RBX291">
+<Properties>
+<CoordinateFrame name="C0">
+<X>0.000000000000</X>
+<Y>2.968377590179</Y>
+<Z>-0.001920438954</Z>
+<R00>1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>1.000000000000</R11>
+<R12>0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>1.000000000000</R22>
+</CoordinateFrame>
+<float name="MaxVelocity">0.100000001490</float>
+<string name="Name">z005_model_0_z005_body_0Motor6D</string>
+<Ref name="Part0">RBX2</Ref>
+<Ref name="Part1">RBX290</Ref>
+</Properties>
+</Item>
+</Item>
+<Item class="MeshPart" referent="RBX292">
+<Properties>
+<bool name="Anchored">true</bool>
+<CoordinateFrame name="CFrame">
+<X>-23.055946350098</X>
+<Y>7.055249691010</Y>
+<Z>-11.206083297729</Z>
+<R00>1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>1.000000000000</R11>
+<R12>0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>1.000000000000</R22>
+</CoordinateFrame>
+<bool name="HasSkinnedMesh">true</bool>
+<Vector3 name="InitialSize">
+<X>0.399527788162</X>
+<Y>0.281613826752</Y>
+<Z>0.243443250656</Z>
+</Vector3>
+<Content name="MeshId"><url>rbxassetid://80040798793305</url></Content>
+<string name="Name">z005_model_1_face_eyes_0</string>
+<SharedString name="PhysicalConfigData">OUY0MzY5OTI5RjUxOTI4MA==</SharedString>
+<BinaryString name="PhysicsData"><![CDATA[]]></BinaryString>
+<Vector3 name="Size">
+<X>0.660643219948</X>
+<Y>0.465665400028</Y>
+<Z>0.402548074722</Z>
+</Vector3>
+<Content name="TextureID"><url>rbxassetid://77611262320229</url></Content>
+</Properties>
+<Item class="Motor6D" referent="RBX293">
+<Properties>
+<CoordinateFrame name="C0">
+<X>-0.000009141428</X>
+<Y>5.401689529419</Y>
+<Z>-0.209885939956</Z>
+<R00>1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>1.000000000000</R11>
+<R12>0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>1.000000000000</R22>
+</CoordinateFrame>
+<float name="MaxVelocity">0.100000001490</float>
+<string name="Name">z005_model_1_face_eyes_0Motor6D</string>
+<Ref name="Part0">RBX2</Ref>
+<Ref name="Part1">RBX292</Ref>
+</Properties>
+</Item>
+</Item>
+<Item class="MeshPart" referent="RBX294">
+<Properties>
+<bool name="Anchored">true</bool>
+<CoordinateFrame name="CFrame">
+<X>-23.055946350098</X>
+<Y>6.776450634003</Y>
+<Z>-11.212609291077</Z>
+<R00>1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>1.000000000000</R11>
+<R12>0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>1.000000000000</R22>
+</CoordinateFrame>
+<bool name="HasSkinnedMesh">true</bool>
+<Vector3 name="InitialSize">
+<X>0.272944182158</X>
+<Y>0.121181964874</Y>
+<Z>0.188178658485</Z>
+</Vector3>
+<Content name="MeshId"><url>rbxassetid://91042255699044</url></Content>
+<string name="Name">z005_model_2_face_mouth_0</string>
+<SharedString name="PhysicalConfigData">RkMwQUY5RTVCQjkyMDlEMg==</SharedString>
+<BinaryString name="PhysicsData"><![CDATA[]]></BinaryString>
+<Vector3 name="Size">
+<X>0.451329618692</X>
+<Y>0.200381666422</Y>
+<Z>0.311164736748</Z>
+</Vector3>
+<Content name="TextureID"><url>rbxassetid://77611262320229</url></Content>
+</Properties>
+<Item class="Motor6D" referent="RBX295">
+<Properties>
+<CoordinateFrame name="C0">
+<X>-0.000009190708</X>
+<Y>5.122889041901</Y>
+<Z>-0.216411650181</Z>
+<R00>1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>1.000000000000</R11>
+<R12>0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>1.000000000000</R22>
+</CoordinateFrame>
+<float name="MaxVelocity">0.100000001490</float>
+<string name="Name">z005_model_2_face_mouth_0Motor6D</string>
+<Ref name="Part0">RBX2</Ref>
+<Ref name="Part1">RBX294</Ref>
+</Properties>
+</Item>
+</Item>
+</Item>
+<SharedStrings>
+<SharedString md5="OUY0MzY5OTI5RjUxOTI4MA==">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</SharedString>
+<SharedString md5="MjBEQkEwODlDMjk4OTUyQw==">Q1NHUEhTCAAAAAIAKLUv/WD0UU3KAUrqCrIsEFhcB/ygMTeC2SEFhhsyPYLJvCpTWZ0GAPP+bQvWDjFN6ad+4iHh/sVhyA4zC/4K+Apm/bcua5f6Pn0zFoVdd4jbPvHE9PX+fDutJu+2kzR/Q+TkHhsF5NwESvkRN3TorBHQzo51Pb7hTVr/Eg7PmEKYP1AJr6Mi/zi73q5+PpwYHbVLBQpTiPK7RRLpo0F526V38RvFZtYY8X6fHaUjItx7MTi6AoLoO9c8YHDdPhSmkgsC19eZAeUPjrj+BSUOu6gBSA5lAO0nlXV2VddkLuUy/J0AGPfW5F1OQRjQv3BF6rCty5xtitnDMP3puK82XIMPlbcxRdN7l0e5j+DxmfHPCBE+42GCJz7T0IV9V3f6Bo3f0geiD2vy7JgYJ37fJXZit6wEFMg6MI4CFMZU9F5VxRDbpvNYoUP7pui1YWbCY8UeGwFE4fBMZ+3TIbTq63UP1aANje5XcfxCCPdUHJafD2hET4Vs/Areu7yNnDJgeBIWVarZIl8hy7bKgsNZ1FTlBl1yqronyWFOwMcQ+LiIzxxpsOuw73SEoWZfzJ141MO2yyNCzGpjT7HCnTMzk3vx4yUUcVawU9qneUPWWZFADuRaf6p8hUwYd9xmQGZp8KbEAv13UXi7aNXxIA5YHRivx+bAN8uh+lR0Hk4KcD8OJvgIQuGOu1aAR+qo2ai9uJN2VXHRVtvzZg/jpD+0naSjxa8C6TiVLY9DUlaeotiGL2iAgZ/1QNwrEsg4B8dCqElZn70XtyuPYjjWcNclOrVzcsDAR8bTaXvUWe1s74G3w6FCD/Tfth/lKZU+jJrAqYCPeYc2zfbhERW2n0wvsV2JfedTd4zHZ5pogCOhcAJFP3IZOHGqOLFVlmHOAict1QMfX5FjwOUOnhQWxun1tnd3iYhbB+ypHUe70cFcJ16Ses40LtCLI2O90tJYWHFMaIjknQ6iTgZQ0VEAFdEBeQd4WiYNWmnZEvveSluvhez6rxVGXoTOhR44ONdxLZT5Mq90J3SV7KxQUp6MykUvHPLRV19ifQwnhW64KNlrXHF5mL0hGzaGT59umCND9MtBJ4QxYOuIc4K3fXm5+iCGyV4/Pu0nNFh6ICGIvirgvKf0COl/TFa66/DfniIJpKMrZfpsC6i9rINC96u76rQvVHvKUV9HJ4J22Rw8m1gsQ0fTQN4AYYfsOkFG7y0PHZ0XwpKjp+jbvYZcoU9Wke0pOne6DUwWP9ap1gMba7puDEbvc4yjE8Ki6LFTN2cMQi574ctqlxVAfK5wVdYNYxs7K4MU5zHULB8qVsGGSFb2Xng3pf+b9P5BHKILBrDrrzFcm8gxXUcvI/fa3K89iaCyAy5t9dwPovsJ1lNH42D2Whi9PVxBqPttmOu0aKJ9vAfU+3hc6LOitZ4XBIBehyBIX5W98UuCFnvd5mK34annvwxwyNBzdTB6CcrEPRAHVech6MIzPTrogomoHXfE8pkOT7gLimb1XClANl+XgV5oSdNr2HRu9IQPfVBVQccRKrQNH4B1QNUSXZcpc/u9SuloFEs67tmeP+6t/QRXXmdtRT0D9tDsf8u2nQda4Lkvw2MPfDLjI9wt6X+rl123ZdRbXql0v6UenXTL0ZcZavVAGTjdEwqEfciAsxv+MfXM4gV7CYRSNzRyaoUCx5josSqmjEsvnCzBBkUKDbrupxkqJcwCyliYpfv5nlBNqmBmmMaMbPGMcNP7xh67KVCsZ5PS1AWPXXRSHYGANR1Uee1s2cKzHwrf9NBayhDLqoe2ju4WPkDt9jBRbRf8tNFDX1TttLfRA3fQtu659j4VDXro7JK/YabUUQTquULJdhSzKm4ZwPU8Kt3aoseeh8Sw+zwqb5rV0vlIH/tpjCu/xeKzF74O6apktf4lSFG3q1L6nkdcAOqHJtBd9YmHXTf1oxtuKXZVVuI9ygK1F5LF6KosiLeSZK4uCDjaU8Hw9rAkWkcHmOyqUmx2MoIT/c/HMvGXho5OILgCq63jzX3RQinrelCT/gtSQC8k8UOJAVE3FBLhYToNu+Er4Xnsg41+6OSjgsZvNwSgRLKSQS9UsaXjrbETIrjaxQBE+2ANhnOtbt0N6waUkVA6GsxG/zcFtpObED3wx2j/Nmf8qmqK7gpoAiJfAHiiwka0XZLzEdJ+O6gq71DclekveDg7Ix4vb8pC6i5uOOmNAhLwDjG2uiHMh86oWIF3eOXQ9ZRoOuNdLd+rWN3tp6YrsqLgRwCo+pxvYCwHli7ok171hTwkeuJV6CHUSn8Ea9AbXaxUZ4zB9kLJKJxRbruhMOn5Ca5PP8RyXZIj64bIQFr0JvVCIWFpTsceeNtAcY1IRwMgflKl6n6bUFuACBPdL/IWSggjZff7bTozQXGCCHm2eYck4FjuIlxiLIKMNLcY1RLQlFyHm6JDr4zodHlfHvczuQseFemAONp+AFeyLsjitTMuB0ljDsL2wGFYz+p7uwknGXoiEdnzym9dRzyUUz0S/OzoFRy9MtmY9/hhdsGWG2c4MbjO4nE5NbjBakfs3NoDm0UD96l6Da/2PF4zDi9CPXA0gi/8eeqJWEM+Qlxbb8RVUlX24NMdxYQRcWF0yAOghjN2XTGRbUOxHe6ImFU3az76oA7kBQpguqAB3j4mCMMDKNZ2vj8rDsCIVNdLRvF2HNvpbHZ62FSRnchHZItxaOxoOKqAyAo7HAUNaBkfnQ7P1uOOTnZBJJkFg1i98UThkcpOn+Nl5VdWu/tliONXPradcId2QFiaFtMSbhyVLdIU05wg1AepCtINXceZX7k0bKx7cI0qSnnHKlC2aGlR9UJWLeOy4DUiwNYlqReRBrQX8Jgpl8wX4Voq8Cnl4qYFpKfFMNkGCTZsahjzvaoYSmUpvcxDeJRjg+jS4tLOGNEiREoBdEuPRGmK0sjspSr4clXoqTbgqqyt2dSwy4QPd0lv0QxRTBMbLvgOrHow1DiV5FISsY1B7noGax6H/mIlX0i1gBRM5COZC4ZQj82uA0Mb2aDQrybNSubXKaRvnZ+STqRJFTWkZOeUHMsgYhhhaqYypyLYK6YTR2JezQwEtD/UFHPfvMxFOSy01TfEAuiOljKOwPCVybnMkLmTN57oiXiiOQOHEBEYMCkjLzVHx76KFpEuj8dwzaWQY3XnYE0RtcTfFcquTC/ZNtO3sA2mJWJWVMyNjg3VKhVUJAgp4ltXHCnKObnBw54zl2JOsjY2jnZhXqpIr6Bl1RR3NUV/7NKWmuNRsS7eOS/RsiikBqW/lDEJNAV/6guVB09OmJFu8JLqDunc3FCqaR4LjTFP3o2VvhjcrbFVJ1gg8cXr5WVBTIyy1EetoLFsn3TeVeaSJm04Lm0UTM2NKspUk9Lk8yBKW/pD15cxCy9BGlLjDK/My1HNUiQiC0q6yS3mMs1QWnTkGJzUIhEcjylMSIsJu5C+dAS49bWA5kv8a1vIwLXUIHl5ja7YCnqlXi5zBzzTIkhMYEQ3yAxuLmlToSDTFlYKKVtcr+QW6bGZrgRL+Xa+IIH24gfmqdfmSiZb0RS+vbaxr10kGTVNHaa5YxKwjFMDc71aUBvAMPGlBHiVhuzobyjqJd2mtH5Lai8zJI2GFSkyJ8FIS4IU3OCYdKtGic4INUP2omoiVea6jdW1kGqodEOTtvXosmVUO25szEVihdvdvTFmFblqvF+DpbJiFpJI8uUiaSI1qCliXmFkq/ArhSuM7YLPHfs6blmhsZLaqfq2uWXnioggiSEhIjEirbKROEtMxgLwYkyGGtnQzhra0h6dXmKjFNTmaopyxcbmelUqNAaLDnHr6mzhVdrI1hJj9tq9W9LGuRmk1YxEWcR78Q3b/kVRINbFr1L1LoUmsxmDo9kMwMdstoHiR2U2zyyazS6VZrP5KH3XiOffdPDyt0tAem+U199gitAnKOLsuT3Kv8BE2KdaONBzUUz5XRx2fCeMbcdhYsaXo4D3ayAs9hs6Lr/Dko3vHBrsNRPvn0N1+QkqoLuqqc7vys36NFFrXfTN8V/9UPSmR2uds8ne52AD60U0mOUygsGfAhV9PRX9A6tzm0jQJ3KSaiCk4BOVYepE2flCxkhw5oI+HeNSL70BS49wMfuAYZ3dqwCSJlKo8wWFFztrU66/AWr7gKibPZZL1WvgIWKI1mNB57EAMR0CletTKMMxHUJp/kcYnjpwjjOPIJXnO1iR03/RFr2MKB0fxYdFF+bc4UVntJ0ZJxj/mRK5xGpN/N2MRmEmXyZIFvCRg3+AmBE3lcGvWv2s94B+Yt2a+hP1E4co/wcVovhcx6PPxyADGhUN3hTu8RKRG2x/MT3XiIcD183D7xSYTyymzL2YcgSC3hZ9+OvSHwCNgZIF8/F2bcRQxFo3bIsRE18TeAkhNLkjlC5fGGynjQrKheEKhSnXf90aNB02ifNhlR34jtZv5Z7qCMVHYMffoUd7I/xubADTiZsA4JeCkXNcPhjuzBeDXwlMT4Rsie8JRe5GFdzCEwugi9vtxnP1N4SgsZMSFG5IvGUqVyVafhNWyIRdtfx6D/Qn1uDFPY35VekmSET+gV5hYOIEXwbZvBbn73A1iWG7l8BWW5x453MNp6QCIf3EYxEbNcq2k2oA/K1PzDrnF/B/kFXio5USdjEmWb6XBueDkDiCp2r+OJOOnRvt8UMVYiOHdZK2aFDBP8NBhJ+Dwx/GNYVCVcCPw8lLE1XyCz1js2Z2PiTmHmBs9V84IeghTmNwFikcPmJkUjcLAcW5vJK+iS+VXuWxeF+L539ANUYGh/V3n+5UbAcpZwns3kbPdVs4fpllYzeyYTULYNOjDgjIS+KDRP0QI9JEJ2ux4MyiBeyXrA3qIWZ02PQR9uKu4rcsIKWTTcngAH7gfEVHyZ6BEohnCOzwL8zwBi0TOodYmQ0H4uyLMLIhs5MyHU3kDvrvTE8+bMMMbHyp9EVnYlLdtJa23EgGb2eKfeMyD2o4gyGhfQKlCA60Rcd7vIL4nS1Sh+3dyKEr4tqE0lwB3gZnm6AYnAUT0nhU5YCL2CUMufDGxClcpYdsl2BDyf148Ni9KkFVvFM4DAtKnjNghiNYPttHeimPcYJ5PtDkw3NujPej6CmS7mCCyhI/P2VuS80jbnMDbmrXwib8ihNGO4nbhRCfF87qGls5enPBk5IpnMWxps8ZVQPkwOnMDj5oxNQzkBKxeH2O+wgCBTuex/2NNHlxDhZe1oW8b48x+ROpHJcVbUZNfDrRpQdelLnU0VrPJBzRM+9MEw/6eQXtiVMgnQgsRi+ATvMuUhk2s5l8C+tTrDSMa6BBo8sUjQOaSvK9J7peMxVFV7Hc5SROnNicTo66DF6uJmcrP5Z04nk4f//C5y+/M/twxCiI36sFkD+28fDCSOIfNwWZ300Y5W6lNV/PX3G50kJuJSTDR2EVyLv+5niWJ4KfluzDY46EQvwtqt0tqIPHlaIg/DILyRxoFZGPuJL9a65HXCyAJIcjUfR7csz7x5znLRIU+RpKHV97ccJJ//J87QQzjrj75IOIiHkt4H3AaOGcXnH80+frM/ngcFXehBvm1h/PUoe3AATjYzctPllb2TYtzf0XVKA0uLnx+Zq4cBeAszwqyOf3PXjATRhg5UtyIH5ekSXf+rHJIQyd+GqTkfylxooToKDks6ya2HtjuT8pVoYSmdNXcBtrosnNhwlDskIJ669EcUX0ovNATVuVcNuzja1yBMZcXNSDniewlMbvZCz5qekMj4SIw11c0fFUsLO3Uuvlo8o1HzXr8oo5O7isBzYeg6pDOnMvGG1I63OCOAGMOvBlPOablNF/IAXIyeKAfocnE/YjBsz/d6KSP549cp7BJh+wa3NHGCm4igzCr3f4gP/1htZhGMA3GOdIc6TBe9bOWCAs7RltTks6roZmKAl+aOSkxoeAGQRgvnaqAPOOukVbUUXKF8G06MXjicdyInMuGkKes3Pj0VOIIzhSt48gqXAq5SLeSxy8cwEg7d4Bj1W8S7jNBlfu486Vu0WA5U7CrBxHClbu5zlsUCXKfFBNjndSGXOp0jVOg0uIC77t8TNGNF/0wYB7zdZxD3yB3NN4CQfTWuV1HT456IDJXcPA53xnFTjoFYQzJuiqjjY+urMPnqNHDhNsRHgsYtCTETXuw8GQmCQz5wMh3jgMonKOkM3+UsRlWwP2kU6QHQIBZyA0xByvDsa2CbLht0qW8Miqrb1oBMVrKPfgmThQ9qVkIZdhdIPTWI3cbRJKeRHxES7qdIED/UFyIrk2zmhaxqtUD3nisRIeiAjGPYBOcjbIABzrEgYHgUICh+Lq/AVQRREqcZulnbhfUDJPvEU+m6WXOBonjk8WIcWz8uGLdVL8BheJN3gFhWqcsrRLpZzuHIZ+KlBVvPxtOJTNzY9LYpnliRlz1tdhJmIO3IcJKRdCALy4Bp/TATNz8SsV57sjUttbxiddXVGPAOCfAxIl+ZLw0hWwe2FTOOmmDOdp8sRFsx5jJJHbnAbKZRJcHjP7eXi0gy8d4vkEMeIPFtn4DRMi/oIqWkYkx18u0bsDHJ1oFYyqAGW9LWrEkiXK0VHH7LxiyoloWLn3RKihg9v238tuL4PC2VdATW1ep0Cco10EzZLFgrsz0xCfjvYq1REfi7kO0G0PtHzqVUJmcBYKW13wMYRZsVBnLHSEEkykI2JK9RidgbqHE1de8B7E3i7oshbgsajzoWcBGNHreslnrhJAR9cTfemKmv1uTvIyB0nfQ4LeYdrb91ygAost9b4axsd1T7rgFKvU1R4dcUNvlA/hvqgEuLEC/AAj5hPchWK5fVEDUs9QYsAZDgFnZwFJwJBGqism7uA3cZt9kBZnmzDbdLoEyhvnyxSJJUNZRyPhjXAb2QNtvLyIFKVdMGsszams1RWdWprSdjdqO4tDJP389yAV2MWnI3Zapn9JofRAUtMeRkGCKtgPYs/b3arIccZdLymwc6m0eJmZ077nuuM5FP32wFEPPYzj+bQKtT3wrrC/hJDxObpJna9FEr5bhbmNSnln3HzrYYnTE2fy9pUvcmcMBqXaQXQYiuNBjxdwrrNxmhPxtCtK+GEmG9sZCW+kXZlk9b2wyli74M6Xo6wbBUb3a+lChr3qgm5qe3jvrCNu8oLJPnbMwlauCDPKK5vo9hk2pPYRDoE7dhsbyOsn1/IbXRGg6bzJUSQ5avlOsy8MPo6/jhkGAkunF5G2oQtqAfuc38rO58KI71Jw8jE7EvS9VxecHN+e4g+z771+V1e3d9iY7XuPI1i6cReMDMB3oVx5ootnh6HDxzWwAcrIErpEC3EsXSU/pMe3c25Y4QzS3L6Pj4QjJ4QfEsbugGW3X9iplDU0/OMEoEgDxfxhD9IoUq3+TJQRPyMpqKCgY8LOmI18iSCuLJLzMAJ32xjeA7bHeeMVPzvBbkvPL140OcIpKcr884YiD2PfugkDdVHIfDrkOcQ2zuDYM5F7+MMWoxyj2qdzdiXymqS3D5mO+ps1WDta7IK9+OrzN80+fQSBtt0iz8k3MSradywubVPcuY9Ocu2xKYw3IAzTHyPh19NPCLiLTf9prAU6KwkmrnLm8eUOXfTZIbGtu4f4ocRkeo4ehrxojeyzRNDrtnRBvMPC/Roc174b+8tpmn6+UGVlD0YQZCMps3ykHkaUoZgetMTTOSq5yY6PAry/2PaGZ7xU4qHe6tvelQAsDzKsfewnJpJ/1CAJWH1lueIjgeGcYymF/C0S8ciubbwpBwWfeCJFDcRmYNfYBOE/a+O+pGX8K2YfPedkD/mjocaZeeIfELT6VAJI3BxIUL0FdBrM4LornDCrsQyceWByg237IJhO54oXSNHrKslJHqdgc6VMj4aztKIoqpTaN9BI9gi1UkA1yEOshRRI7jI+qt3nwbL+wlPdeXaIG/B2Fi3BQ/o0E8oGHuqEkQn28rBzynUQjDC+QwzlBQBfyDrBk8bdjiCCSreQqYs+AYhbj2UykAbsjnHCBb1rynUyUDCBRI73OPFAoqaIJ5l1qK9klHIksTO+oxai3uLD3K40LbaN2WFGUZdz1BGav8MkigOQ6wQtYcSD0El2LOoEHqHSSc2PjK68kzJMzY0qW3haZDgfaTrkqzA5/x4rznTRDP5XbCBV3CBiQWRMD/h6gK530qcGzbWJFXlk3w5NOVq8ETfOAJCFRC5vIPCBo7aEUbB+2UKUNwzw+Zm8Xvyk1uU/41T5e0C9RyKL4ftVuaWFFJjwXfCs7Z4JdR9ykG//Aln9FF0/ti3TzZwW7jmWQdX/U2qye2RfvRYi57l7StkJQvwDeIbwb8XJ/+V0rq5o6TPxsCoJ8f6dHV85CWt/xheKhUuA/1IXl7jg0Q9FHbGsfd1Tfi6YWTpcBalKsS2GEwiwV9BK4U2Drt8nR8cOUnnZwVOFs8Dy+DkHPPduVeaNPhPbxo1bz2g5uWMJNPnBGM/NIW48WJXNWc2wxr/UzJytPi+klbzP+SWHL503i8hnuqxmxkqcOkUN8OFOilP+jYMLfIaNdIfy11Grf5kgE//hLPXLT/U3G3rdhjRGnhaY87969uzIVwZfZTm1Z4oyXUR04NtoccRX7Fr+GQdH/7VLCu8JBfGFUI2977IeZwCE469oZfniEkGbr9LnLOpK+8e0CJxz1Bif1ebq/uuN2n5B6t2xB1S/K27XHtShce66jTwzV7vHuE3LtcoHdg4ShgH5X/pkX+ag8sg5hJpgk3wqTXdr+vKApIgnaAxQtZ0NMZhh7xzrYMbf4tO2NVLA6XAUd4+Era8B2AiH9EtKG/9++Bw2rHAXPTNfhTTtddQ9fJCBFI9kde2TwSbgflLBP2mElHSBzSWe9Pv7W0iIpWHhjHferY8zhbxPzxJpfN7zXDp3SDXzPCwwOPcVJXOzCBk+DXYFtG24FjOqiu1dC3b/Bt8GziIbIocAjR1EEskvw8vavwvCvg0WavwuMGj3uQyeFIZO0N5GLC+VTPA/SaZUyl39lSGiiBuoPsxViRUQ9L6C2l8TSuR+ki2VUgXTzyKjb++hcZ4B7HGdHZMw+QuMxw50afxFc65xAH+58bLLmK640Y4JPrULCE9gCoC/6HrfGUOND6Jd8aVDQB8gyPyBi5kbZWAeU2vGD5PYLOvVev+tqNXnlVO9Gl0jqf///38yuBH+VMmZTxMC0DqTAuo/oEZMjz2Yqo3//x9TffsYzP7bjCbh4PNNvHwQS////8uSzf/3tXh+vApO/m9g9dUE1Qsg4C3NYUNVMKPf0EgQ4P/yz+S+ypvmV9ZA/Otezji0/D3dnLSHYOO9f0ri4L9W+C8fFsefpPw3s7+Bg9+YOKWG3v8vd2aJPQg+XSwRb0Kl/C1TON8tOQhXcFbhJwef/LotLD0dWVxMQqfvnVH7fax0XI+Ii29OMfrvQvt4WfLuV3D6+JlyMvDUVa1vmLv6L7BQNijw9s9ij/kCGT8+t9r9Wz1oB4Gt3LnnM9FQKkVF0EujwMdBm4qYfvQRKC64xII/hGXx++b4eOGdkhdGEvt7txX4IQH+Z3YfP14aBUd80H+Tm5NPBqLEKZIOf18JTd128EHAjuBd0PwPJvD9sVMy7yOG6f/04fC9ZFj44wzUL4wE8i+ESvIUjik+YhQWv2cH9rdIYOTZyMi+qAc+P0QixnIW8s/8ErNwMf4vN6DUNR34LEV9pwnedowu+UgdbKAXBCedmeaEFmTgdQCkAUYh8IoG9H4MrBhvxff4R802+Npz2S8llOJrJwM8ATLEf5reQHikhbuBR4sayWBRSFWMMYiI4ZE8aX4qGMfB4lRGDn2uyjJH0OTGkQkFeI5ODP94CSUvjanY46vugwFfg0YAP1us+V6yN9wDXtwHs7DDvWxRfK4dr30EIejb7ZByG6wh323CzO6NQVEFJASHWQTK0dlVkD6QpcefiDSaEBHmZbMigscqAZf+ICT0wJudHnMQJyD/y97mHkShfCzPFbzKBpQfqCjIpT4JfME4Qu4kJMP3Oz2wbZ4af2SV+QzEKcTH49uw/579ZRu6uAuiL1SLrqjzy7CN3gxYDZVePoMWJPTGZ+wkeC1fLe5EWHmjxMObAsl8hAJwAitdK24fuQrWzld0K7CncAsxq3Q21Q25Mw0kyp8JBQovUILGGZDT/BF/aOBAgjuf8fRph664/M6s1H25efdp1HCxF4eU/MyfQswANP6ozV4qghXf83i1tkmDP+lZ9Pk0oNijiL1pR5U0GWTLPbzri2bB7vFtfdJBHalfsWYu+aL+pW5nu+3qwBd1ykOtO1ByIOI6uHZRUgPVYw9YPBkF8lt7/bGSiXFwTexjcbLVWxPVWDQ09ZggjIia8a6WrIaqh2pGPF5/+ASk3qrPFnAvyKhpzbSIWGXoAqvvajaYerTOqhdrxFrKlOoMMRgO9Wq9xajS9EQ97OpO5HMtwkUXZKShzqxbmDFF8QF5dl4B5qz/llR4AtVntzVWHVT89YjjXFdjDddsUZRrUh2BazWGWlOzpmJQW9Wn9Y4Wvjq5Z2hOgCtUpopbBrrek2lJbWkFXMPUnlAgYKgdJdSHDjrUlJiddWjrKG+d6+Tm79ucAdathifq0NmlrdjGU9/gUU8J1cRBNQWfGlJFDQOkHqSr6fgSCha3tXJdXMPVqWB4/qvAcM1Tq9RvtYraM4kqqL2TTGwdgdG3PgPK8K15oAVq1ZN1Wz2jXqsvaxuYLBfqzSR1jSuuMxVxa43hb6amy8Gqz309s7UfbFANW5vVI2raF6qr+sy31uNa+ToEJuBhHnecx7xA6xg1Ws1XYbI+Qq4ZENe6TJmR9ZTJmTqzPqFBFOvXcj51j5quHqyn+BCoi2q1AX11hF/80WBfL5iMw+f9PkZ8qZkTjJ3viUyaE8DyAVPKrZzEmy6R8GUVI8T3TqSQj8rP3/iB/Ndf929yS+j8zO9F/CT/TwRhRwMJBDwTX/WHjnl8IV+uj4OO2RGG57wqmiZPHOKXflW9quErj7j4zn/D430ext7fbQX8tZ/8P5jk70/xP6QLme+JwFz+zgsc2enYiN8eeWTDNYyzY95aSCo7ukQf+hBMQGrfWrBuizrD0fjUAdSg6NZUodKAIeu+HafVMLUqWE9tDVunAq9Q2rX51Oe/B0DqbaRjx9UyiH1sNyD2T37XOozj2fh9tNnTmuZ/sT2y7o1F/B0bRX6HnbkuOyrBK2mC8Oto/E5r4dczojn4UpSV/faO5q/U7fwAoFvd1k/w98sjH0iGiq6DyI8PtfTiSw1A7bOWiJ+H8vZXtZr1GjRyvpJOywdzPNG/ouYHkhP6Fuqg/o9k/hGU57dgYbl7Dij+EQ/Uz3CW66myNN8nCYVfNkrXv07TV/BH88d8IPcPm3TkhwBS67o0UnyXK+LfE+DSaRGX/dvn2+cgg9lt0U18LgIYHycKK76xAuVm3aVknZpfAiqISengbCouEdyi0Kn1JE/CxpUXBUGW1imnzHlO7BjBOqSkV+uoU1PFm7FTWZGfKNNq2lwOdiWjJmXiYCqaeIkeJTzROl9TVulsY8DXaps+PCV9SpHbbcNwRKqE76mYQE0D7lIg4h/jObsZHQSpUqUz9qKrBjgPYwvPlsYXpB1xxD8TpIPX6bHwPDgteZ9babpnbEXF0iGOy9ZjO8+U2iT7RgrArFAX/A8jSiCnPQ/5Mvslc+VEhov5EUlJWEGh+XoXeD04MfGrNtT4XhIPntXDiiDSCElTWgB7WAjdT2QiYQtr9i7YwiqPTNxmCvTzqrBjHY6jwayY46SAAMarRNFuP5xga06m+NnnbDCXeuFq5UO+iT85fnSZu3WRZpd+snEFLzZrNiftIIytiflj7MvpGgDNiK8l1+BrU1h4m9XKjjMswfX+1hK5Gk2prw2aKdoZnILbD+955JPLFqTgleoRi8hcZOtyAcJrE9hI/kgr7E8mX4V1Z//ia7GpvMTtIBeT+vRqs1U71TXCvnps5XGGLBQy0XWcB9mq1A5vL1dI7XEsMrXjK0Ub9zk1YWODQjbSqGd7D2wYZEmba0aTi7CnUXMSb4AukWuhHfeV5JnHsWjkPzuxH5SA8KCtwnoWQ5qj9dUcfMGLB9uz0I6xvi3S2oIuM3bgYIGd+gdwMakfPEVqcCDfW7nbqCXWattFSL73NwWEj8gUQrYUx4GCYPACbnitdr+bcvnEDCLPjWi3G+FsNZDv1a2qOsRmfuI7UI3ltfvz7oAwP3E2skNMSsk/QpHxNVPol4k4fJt96RsrRHrWJhE+NQgIz9rz+38uk3ns5DxoBVQSrjp8ZxE4UwdqcYCeWxI+GwvlpxIGvwSvlHpXyAcjUf+nSSmpqm1ejvZM9cSRN+29e7X5NPKgDYMAD3og6F/dfD0pvF/GPwUpkT9j9FT3Agn8dSkqxXqH1BqSXq4HV8Wz8U8QJ6iFH1d9qQ/yjyl1qn1/CD3j06nfEapSC/dur0en6IuK5gNb7FALHvHPJwJZuv+99IrngXpXCyND/T43w7+H2kRWq+YhaSy/Zpa86OwxT+Kxb9w69awTAnw8LZjSmibDQMQeTXWVeNYSvF6w6c+v1krtKbN+vQu7HibI+IihS1ZMyH4ijleVp+4v1ErXwTY5ftXX2S9HUKpxEIj9NhSO/uGBnzpYDoIXhsH7kp449fCQjo/jtTlcf5w6yp+IREo9DDfDC4OmuQLH3JpzM4HnpKX1pZ+iXAE62O3nl9uQEDv7hMJ/NImlZjgP6nwd8oUR9HP8KLnOGWfr4hhXUPiA0/UCRyDCUhNTxP7wioT0bxPg5j9OFm9EopIUSoHNJVrmAoTjXi5ay1wE5TxF+Er3imAsa2VxCm5BPY9pfGnFZooWlwMpMdapX71f7QZzx8kt6fkx8NzqjfDbrJg4v4T9JxNIn+qaYpNIkYZpQ5D/9AR/UFreV4+1cYZNM8fBQRloP5W8/BK3aR50xVPPYrD5aFRl+6r0SdyPArIPTH58CYDdn9rRYC8LSWWiE3CeID1K7XK4Uubb8pYRTmGt6vdICnIqIB61LIob3+dUilcYIlfXOkn9BTFy8B9Q0j/CUnmjlrGobRd9/t4f0t9bEeEDDOynSP1iUqOpntMbYcGSKhvZXKtIahwDxLwLDjy4ecuznuWF8zDGZPkCDel6VsSuB4Vk4j05WvUOBR+8JyMnh3AhCVAQHNlS1a6kQCyhh2qOVfA/gfq0V9OoGfwIHVx/hArxiHZzXq1Yr/ZFdeADBTl3qY4W9W2RoRd0mdqUQCJnEGmp4nhb/UzhyQuQKFD71j4D6QOGdR7ZMc9PKFr7Ri8u009+tT4RDaT07pFgokkY6ZqgryJAiWoM4LcjUw6cXQCP/LBWEr5TQfOvGCDAbShTgZse7MEkaV4GHtculBr0gzYA8CDEsdhUGQ4AjhR0bXED9sKij3CkT4cweWAjXS/Tw0lGmMsPqGnMiovdMdTMaN7z1ruxC/ysXeoTEJjG/SD3QTCYTZP+FvgfJvClLcDg8MOcdEgDyAXbnNyMxhnwJFUl/DMislt/yNFt8BMNwa343ShRfOgmhJ89W8IjSA4eCX3gPishSNxsfRNLzBvQCu4HwijajC2MP19sEd8hAvVN5CDk/EbKKwr8NAafc8nl1wmd8uhR/P9MxP7+H14QijloEclDPBzxpGakDFmbAusmtMapt2d4/MuoQgiqaIS5dvGDr6lXyi5CU/JXiOBZ++gYF/7ZJxeQ/zNF69wKGMYLmFE7jMg0IYSGfwODy4z9K+XzM8MOd2EvpO8YyohGMNlojgc8SkkK/0x5aOsPrXDlOz3yrxAInPLASXQcwwvkZwALRNNzuqJ50HzBiugrWyIEkUGHdj5yAInvOpaOWRcEwOSJKzHip33elfD17W+rJzMAe1IWIzVqGEHmfhATgj0Sr2gFpHg61dr+z8NN/CeGcP7t1ukZ+WY9mYpJISq+VC95gv0RKD58VAaYpREhdqVZdtiAbQZ/MhrAUEM8Vv+grxgh5bebdE1b6KqrBw/A8rAoy2nSUcoaDsUq/7Ct/AQEHGo02NED6SeiOvVgBSJO9GmYPhAFUw/S7djIiGKqMaxq95ElK+kEuskqBLjSu6+BRJC2aQDEb2AGENvOkiE3o3AWx6vkm1HSQw3Y04PzzfJtwAtV9VqOFR4IowDXwao0oWRlx3DzQfvO2Ho9KQJFIWyhX7g+Aj/SuBKiQBBJ+gHmxiy6KF6GtUrmlzV9WuMTeMGFs0uOwmEqwD34JEiG3FjrBkbS5DtRjSsCKPCgD1uvgMThQ4+sHEmGbA1oCYUTEdFynBraGhAAAZ5G9Ml3giyo1V5IcBOzhbwnCidhQ8MjtPDBjxZU8iBCm9jPKRxAWxXoWfEGFEYfke3CK17PHcjag6dkfIimQN1GYG3PhinhTcehtZoRBtzICC33SeFYB6a+7l0kjVxoWbjmbIDLf3ipeNAmkiEedjwosgXPIaTavOi0tvw73m9gMPtDr+gmoIS7/0ovcBU0wiFne/zEsepmvEt2xA3bZH2O5yMIYOoWpmO754DlRQAWa0Uel7uSZQqna9JuBfzhEXiPa03DYv7TxAH/kbEnNfPLEZyB2JovCLeUWK4cfjuusFTPD8UOGTxvQ4AZezM8j0epCx0I+GAvETJRJ1BGnmZC+j7PLrPGwz1zExIgIoMuidtAWm3gpM13OuVKgDYepNo1tGIGN8AY4ky5hWMw8Fsn6qJyBrCvXKcs6qzUiNucGVlroskV/NGo3YSy9ogLRmrLWwj8ry2VNxB7qxVt5HE05d6Mymj1CkknHO8RbxeJMNeOTkl8hYgZL6oGIu3zgwe1oIJEjVK/qZrZFsN3GpnhalIA/JFjwHqyFIvbWUZ9LBt1DSPIAx40ofD/wJDBeeqIfWoxEFYgW2/KO6KG9bAZ+Rg5veD4iSGJM/YueZ6PGRc6vPig7wUyGq1pllomYKBiaR8LOBAhSkjXfDNXgflUvWTVO3IkxYrIwS0k8ApqqEdU7Xjbu8lULH0W27V6sotvUpZTnwh4UwOVCPY1JrW+aiwDyz/QSJcZ3UPtB4LuIPYNAPSQS8k1zgCf/6EGBkOWnbGHRR/WQZQ3f+dHZIxMsFv6VJMFmMGOyforb8fnlbhyRUu4XKqFajb4MrrWHkIrXf9tIVzW+OrR04U8sm5Mkw4kn9rDoi3EoZngEZjdPwdXPf4cBuVHf2PPcS4Hx3MHiRTiBeJK1FWQfj9u5+dswoku91kh+iR2ZCdBGD3F1D+IHagU5k4HTMpAsdUiYAARIEBoZmhYAvMWCmgYRdIgjWO2B7RmGHM1Xt1ICuDHkfGZXV4r62/DwWYb4H2BvjMsDMfRqvDaq+Vhsarz59J4SesR2fE5Xa2FFzvdwLWhOoselZatDATWWVhsxfj6n9jrqOcv77D9+ZrHYtxOoJ8vCEWcjOum59e4NeajS7aPlQzHG2fOqNyUN9rPg6l5VY1d/lDzDjCdIAw95R+9y6Ef2eMvlj0amltZTYa5JncrkTsl/kHtyX8wMsXR7K0XC2p5qwHs34T7sGwT/WsSK4qDyPHVjgp/7t+d0APk3kDplzPrkQw7qP9F7zT9/Bu9CY33j+offZDq4vuZXc7p4fcZLaqVdZ6icuuwFU1eG/rluey+pNtGm5yfDfMnBox5n/v1gxVOL4atG8p6tymOT3NDIc4sLdTyS/9lbq72GIO0pH+ciTbg/VOJRe6+aPvUKjVG2RyQXY+D7F+vdLu8shn5zF6V9HvIql5qDn0gpa/6nk7LAe5O3R+YXEXPFgr8F0+myQDio/AryssnT/x52W+p58+aD6aTACvw3ot+Ak4sBRctihGcw11kCDLH3tMpCU9s2Hh6cG5nNlnDzV6g1vSsGngT/fXUC/4Ysuv0+NyN9XKEXm3zPdP8Di/8eBmfjf1QpP3jiTYcVc5OM01gsTqvh4udFRhmdLjU7IGHyOUiJL8sd/D9q+7iFl4jjzjLPF+Mv6daq7bjbKnpvDA7fNUntvXA/bmIt80/U8jw//wpnJUD5CaqyYmavUO8cMgjS7lAdXUfkyVO8fs9hcr3Qq4jfRO4YUs8sa9nEKlH3NDfQaHOidJ2ne4s6A6rVycaZ/Yx3/XhmNOhc5W4HL6i/t2CycsOpwtwGoTsGhF7PfMc1BoqpZKTC3+uiIWNYmqlTezTeGAPIv1nvstMPjLtS57zjTlI2GeQyuEnn6F7U1wAPszWVax3fk/AM+LbHAQ7ec0m9nsrsbuJ9y+IVbVG4G6a4tCFWbvKNhUJl5w5iXGjOvnVnPKbyKAaBPTKfODeqN8gh6zPRbGWfypzTOVQWhsGUpngmccDBz8AYe/vBvcBsZohnhwZDg8BshIOyF2BuRRLjv3u8l//5I3t+cd6ZI5OP0FTYngOGv3wRw6nF0VGY96va7psSYuw6DOpueLJ9cuWqf4iti+lA7ocQy/y1Rf5klsQ6oxa5X/jNM2WDNr7J29Deh3RX9Qj2lOTNHsz+/xK58sREaf8pd4p5TdxfZ6eP/ktNTq7W+ZcOVDBT6dd46V38faUdtzjmegs6AD+ZRDNpIt4Cfs5uJtdM/w1re8vMq/Ivvg7VPWQGxbMB3qICp2OizGV/QKp9gOE4ucENXc0QGT/hunK24J/0O0MU3DIzWzUY2YuUzoq6Z8uzgjeM/gG/sstl1+B2OK12k8rmyJbTBSWw/Y5ceb5S8fhwcdvsu9vxy+9prc2hdFbW2c78mHA5W08owHqzluFJ05e3jPFXzOGotWmfgexc+V7BuD272j9lEX9LoAocoNYPRVTyLQsSE+43vS+HE84hVjcq26lpUZV5334pODfV5SdaRSI63sAV6XxPFD1QOH9QpI0qm1RY7j09tOHnHLb0t07qR3X9GL9hm2ygWhmFc/LAQ5mLw+ovllxeVqvAPFqyXMNFHAq8fWBAtlV8mBap7+goiVe18R0oCTwq9L6KBRPhfq3Uu0vtt0b/Tu7BFTtV4LXlx0lv9ub4f0T/fsQ5EBPHMmAPeAabCoJW7TvfyX/fABM4tr3hK+oQnZmv+I92VjmVH7awv2GklNyc52AX5n0cawft5gPyHzeX+vR31fyq13a2TETlfvtn0oFWbIjY/wT7Vs5M473qkybnhxPqb7go+ED/CPJKo4NJvRbs67SgcrFzv9UkU6qOLjg/A4Dd7I9kltOEPGAFdjQcyzCmWlu2Sg0DsTAtR8LnGZ87ZIcH2VuWSQ08s14D8/0bUHym9gvyui5Fz90fnY887Of2G0vrlPEOpu0L1kcpzL9fcv+zSOH/tM84v+YyB9HtRGQObVAT2qlym+UEGs/NPNw+bIDPf+Ker/n7jqB/Sbd01zfIiCTyDzKE+HK8TG7OM7m+/zSCZLEDyNZ0tyk1/3DvsX7x1d5iGtviBRAiG2UVz3qIvi0pP0I+9IDyJGGUgxiJYVbdSK1PEC/j8TtDBA8XVpGE/ImatwNInG/UgCMI7QvHqaQTtGvUe+VcZYUf27SjXeQfCTWODlICyJ+R/wb++gXiLb/mp4i3cQ8ooLDL3dowigXgNcIhbux8hHCdBkyFoZeMRUBO2FQRfvFA3gyaEN+cuRoi4aDxb2hB8aBwSE+AD0WF8evlRapTJXCSOwU9yyMlJW/5psF/QSFYQaLTjowUWjvZe/quqD+/C1DpNMCqfxYhCDvirSGXyUKg4OBfmPY59dhRPBD4hlO+ojHoj2e+FdB4ADu/piQ6yLc5qK/H94dEoCjw35/cWgSz42eR9waylwZGovtcYUQBKfCa0HUmSxjthsg6LsOuzKcE+1m4FtH3BQAnTofDrhsvtolzV7S51gwQiDtglD0LJerUPdHgY9LIZNQ54GrHhTav9wj74pth6I/YRkCjH7AS6uNi0C0dQPQqR/gCPEANJi/v+L/WDO/DZdAyPL7CxuBl/27RqV/XOKE5zvUtuhy4nbJtl/csHuYL6944ctJj/luQc4dWQJvziJ9tLOMf8oS4ct2vVn/y+Y+2gR1seWLH+cfOuYrpemVt5H4ocZwmeUpzYHXBspYrtcMq+b2cmDPV1XkwzXCX2Ath705IfTOFtnA3Uv+2o+Na04A/6umMIwXsMAmvv7wTC7y7VthJSLowC9mh8NlBMjbIvSu0nhOGlXSou7H+BQ7vw8MmyD1Z3kYHaRuiD2Ocb1ggmF/viXV6dz0OfoO8rhYm1YPmICMj72UZweChkggtEJo8AmiYvtj5SHF8Vki8PIokGbncc01qwnny00NCKJeBtAuxgiB01FD84lwNb6heMOCA+o+wPvYQNj1GPJ3BE96OiZOj4Pa3Y3cyxOhovID0noZxCUIr0fhX0gLlOPwLvVZbL81qCwP52tmsjYI6PM7PAAHHhDsvczxfLfqGhB9HPL1CGZvw7GjXuVVS/ceGVqHq8fB58Yj4nfyK7eOF1DH+Ph/pfPzGixTQMHbAYJ7/noEJhm5LMAZ3jh8+W9H4e2v7vgDxsmRXk+suzEK4or+n878fAyk6+C9r+/okHPb/kLAaMUV/qIHmPrytq48Z6tBl4QTtf7ODRH4GjAYBeNM2/OpW8hf6HxHTlw/jkKYfw0lMX8ZQSP8L0gj+VkYycK9Ce8hnYjAGvtAOCN/e9qNlTLnmnApU+sfrukA5Wv2hNxxg+751+Cc66DjU2A02kquhMYiwnNc3/4dF4tUhrtWrzHrUto/u6inQM/XkOLVQ6F0EpnN7oOZgelxli3jdifsK8vwAG5l/4/wQa9Qey5pR7iftZLwfDu1qathx5q1iyxvpkWjvQqSM55hEtrTnkvF/7v6lN2bF3zEL5F5nNzRalQWmJeXbJWJWeMSAXwFuV7AZ7ZvbZS2O2ayTUrYrFWOVwTWmmf1wGFP60yaiSHslcLvUD2e+4+GviS33F2qpwxnKBVoc0muP3YZtEx/mR5G0dc31AgpMTBj2ArxcCeWy4i8bfgfmwTZQDq5cOSY8euV0O0SBhefA7dtYfQaAmhZwdzgGHY7Xffva2TPusNob5B4jj8xPOOxGP3iE+LJeXrnnOx4Gen99dtBAoCMX3JuB7VcuPqaXENcFq4SHN9Txyl2BPAd4M0MHF2cpdKp5VkTdPRZa3LPYcJlEVTy3pmGrNNaCPMHR/9Dt31reVWZdbKz/Xh3V0p6+Au0P+gk5qE6oL3FM9XYw3j0MUHYB8dx4IJD68vn0+SV5PiYbgFxJI66Apv6hPr067Zawqg+X7GxGBsn5ogZIVut8UPpO4Bd4qXO8/nfen6yKHNtvAsdAftB04Jxhz2PCJC3v+8n7CazMBJ5mNBh/S9ZIP3hPokiBp+eiCmfvMLwghC59+lyZXhr8PFzimaXvYDsHeNAREfjTXmBmr43LRDa0I77eV3V4RO7vXr+VKH2Gopo6PYsiyoFc8l65/DA/HMv6un/kHt4CDsGXedS2bS3ixNv+n76K/d+ZwQPd/Tms5jz1U6VfOA+a5hbqsITrxDKt9b+YPsk1/7ZM8l7LRbi7S5w45mbC0sw8Dph/32E/gQoFAKP2PdYieEC0d6KD4bdQ2yJTKegtEjgTrxR2cVHHOHBpXBOja8/p8lUuFCK9upL3x8mN4CNzR17n31rEeJtcPzgy/O3jGt5+68aBXaXvw5AjVU=</SharedString>
+<SharedString md5="RkMwQUY5RTVCQjkyMDlEMg==">Q1NHUEhTCAAAAAIAKLUv/WD0AvUXAMQpAQAAAEwAAACUJwEAACgAAACQAwAAV78LvtAheL3oscC9V78LPtAheD3oscA9QVuAAs7yEkoqWj1RSbWU0lulqNZaxadyZ32iWrptUVq7bJmtfwAAAObos7zndA0843+ZvQDVlDU96LHAuBTKO0nHpr2g8LG8NOMgO7fIlL3NQXS8j8MyvSSqZSGEOb1MSHU8oPCxPOboszxkk5o95zywPNdgcL3WP6w9IdIwPSaaeL1pE0Y9sqhRPajvqjzQIXg9T9CuvL3WP6y9ZJOavShvir0Dfvk7uPdhvaApub1Iibq5VEsSvQ/lbr2RJeO81wsbvRXjCb1Zfyy9lsExvWm+W7xzwla9qghD4EpjvaD5STwV4wk9D+VuPaApuT0ob4o9PEPTPQuSiTy27hy9iBDrPcXWID1LGSipvyo9VlTXPMarBz7uXxU98jKVPcarB75Xvwu+iBDrvTxD0736Su69hIBrPHVokLy9ps+9KaDZuisrd7yup5y9Km1gvFrJDL0ISIK9EbAKvQUSirxLpBK9WrBEvc3/uLzVQG28vfptvTgB5LwAAAAA0CF4vZ417TxLpBI9CEiCPa6nnD29ps89+kruPU5HBD7f0hg9z8asvKVU+j2zS4U8J17VPK5h8z1TzIE8wV+EPVnA6T3toeM8QKjAveixwD2uYfO9pVT6vU5HBL4tDNq9gVG0uflUzzzghay9/R+LvBt1ZLxcP7e9USRqvK+sxTyltoa9ArHyvEssrDzDCBa9yT01vRd8jDwAAAAA4yMTvYoEdz3DCBY9pbaGPVw/tz0tDNo9PQb02D0vr4U67ltxPRhVtT10rDy87WtePXB1jD2cME26wIijvRhVtb0G9Ni9tCaHvWsKyLySIEY9awrIvJIgRj0yqEEsITYqkUDyiETpgCQgynYgDkW+Bvv1+N72bfL14jMjs7vqszu8EfsNE901+nIzhG9aXvL7pMeNnT+zx5hFZ8neroH26Ut+oh9cBb/A4TGTPtxe6PPLx5BNXbdOwQw=</SharedString>
+</SharedStrings>
+</roblox>
