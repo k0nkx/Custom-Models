@@ -1,0 +1,159 @@
+-- origin_x:15
+-- origin_y:-2.5
+-- origin_z:-7.6
+-- display_size:6
+<roblox xmlns:xmime="http://www.w3.org/2005/05/xmlmime" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.roblox.com/roblox.xsd" version="4">
+<Meta name="ExplicitAutoJoints">true</Meta>
+<External>null</External>
+<External>nil</External>
+<Item class="Model" referent="RBX1">
+<Properties>
+<string name="Name">Sketchfab_Scene</string>
+</Properties>
+<Item class="Model" referent="RBX2">
+<Properties>
+<string name="Name">Sketchfab_model</string>
+</Properties>
+<Item class="Model" referent="RBX3">
+<Properties>
+<string name="Name">root</string>
+</Properties>
+<Item class="Model" referent="RBX4">
+<Properties>
+<string name="Name">GLTF_SceneRootNode</string>
+</Properties>
+<Item class="Model" referent="RBX5">
+<Properties>
+<string name="Name">Scene_1</string>
+</Properties>
+<Item class="Model" referent="RBX6">
+<Properties>
+<string name="Name">mesh_0_0</string>
+</Properties>
+<Item class="Model" referent="RBX7">
+<Properties>
+<string name="Name">Object_5</string>
+</Properties>
+<Item class="MeshPart" referent="RBX8">
+<Properties>
+<bool name="Anchored">true</bool>
+<CoordinateFrame name="CFrame">
+<X>-14.951248168945</X>
+<Y>2.847955703735</Y>
+<Z>7.834585666656</Z>
+<R00>1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>1.000000000000</R11>
+<R12>0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>1.000000000000</R22>
+</CoordinateFrame>
+<Vector3 name="InitialSize">
+<X>2.097504615784</X>
+<Y>5.695908546448</Y>
+<Z>1.669172644615</Z>
+</Vector3>
+<Content name="MeshId"><url>rbxassetid://104532282523952</url></Content>
+<string name="Name">Object_0</string>
+<SharedString name="PhysicalConfigData">RjhBNUU3RDhGNTY0OTg2Rg==</SharedString>
+<BinaryString name="PhysicsData"><![CDATA[]]></BinaryString>
+<Vector3 name="Size">
+<X>2.097504615784</X>
+<Y>5.695908546448</Y>
+<Z>1.669172644615</Z>
+</Vector3>
+<Content name="TextureID"><url>rbxassetid://114938348684301</url></Content>
+</Properties>
+</Item>
+</Item>
+<Item class="Model" referent="RBX9">
+<Properties>
+<string name="Name">Object_6</string>
+</Properties>
+<Item class="MeshPart" referent="RBX10">
+<Properties>
+<bool name="Anchored">true</bool>
+<CoordinateFrame name="CFrame">
+<X>-14.935081481934</X>
+<Y>2.822748184204</Y>
+<Z>8.230757713318</Z>
+<R00>1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>1.000000000000</R11>
+<R12>0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>1.000000000000</R22>
+</CoordinateFrame>
+<Vector3 name="InitialSize">
+<X>2.228576898575</X>
+<Y>5.645496368408</Y>
+<Z>1.389296889305</Z>
+</Vector3>
+<Content name="MeshId"><url>rbxassetid://132532918656239</url></Content>
+<string name="Name">Object_1</string>
+<SharedString name="PhysicalConfigData">RjhBNUU3RDhGNTY0OTg2Rg==</SharedString>
+<BinaryString name="PhysicsData"><![CDATA[]]></BinaryString>
+<Vector3 name="Size">
+<X>2.228576898575</X>
+<Y>5.645496368408</Y>
+<Z>1.389296889305</Z>
+</Vector3>
+<Content name="TextureID"><url>rbxassetid://114938348684301</url></Content>
+</Properties>
+</Item>
+</Item>
+<Item class="Model" referent="RBX11">
+<Properties>
+<string name="Name">Object_7</string>
+</Properties>
+<Item class="MeshPart" referent="RBX12">
+<Properties>
+<bool name="Anchored">true</bool>
+<CoordinateFrame name="CFrame">
+<X>-14.956809997559</X>
+<Y>2.852821350098</Y>
+<Z>7.519595146179</Z>
+<R00>1.000000000000</R00>
+<R01>0.000000000000</R01>
+<R02>0.000000000000</R02>
+<R10>0.000000000000</R10>
+<R11>1.000000000000</R11>
+<R12>0.000000000000</R12>
+<R20>0.000000000000</R20>
+<R21>0.000000000000</R21>
+<R22>1.000000000000</R22>
+</CoordinateFrame>
+<Vector3 name="InitialSize">
+<X>1.560003876686</X>
+<Y>5.686173439026</Y>
+<Z>0.742279410362</Z>
+</Vector3>
+<Content name="MeshId"><url>rbxassetid://137066522395505</url></Content>
+<string name="Name">Object_2</string>
+<SharedString name="PhysicalConfigData">RjhBNUU3RDhGNTY0OTg2Rg==</SharedString>
+<BinaryString name="PhysicsData"><![CDATA[]]></BinaryString>
+<Vector3 name="Size">
+<X>1.560003876686</X>
+<Y>5.686173439026</Y>
+<Z>0.742279410362</Z>
+</Vector3>
+<Content name="TextureID"><url>rbxassetid://114938348684301</url></Content>
+</Properties>
+</Item>
+</Item>
+</Item>
+</Item>
+</Item>
+</Item>
+</Item>
+</Item>
+<SharedStrings>
+<SharedString md5="RjhBNUU3RDhGNTY0OTg2Rg==">Q1NHUEhTAAAAAEJMT0NL</SharedString>
+</SharedStrings>
+</roblox>
